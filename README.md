@@ -78,7 +78,6 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 ```
 apk/        릴리스 APK
 ongil/      Android 프로젝트 (core = 순수 Kotlin 규칙·테스트, app = Pleos Connect 앱). 자세한 구조는 ongil/README.md
-web/        QR 공유 페이지 (GitHub Pages, 서버 없음. 주소 # 뒤 데이터로 폰이 이미지를 그림)
 tools/      에뮬레이터 시연 스크립트 (좌표 재생, Virtual Console 기어)
 docs/       스크린샷, 아키텍처 다이어그램 (docs/architecture/ongil-architecture.html)
 ```

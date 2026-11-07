@@ -1,6 +1,5 @@
 package kr.ongil.app.ui.pages
 
-import android.util.Base64
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -28,15 +27,11 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import kotlinx.serialization.json.JsonPrimitive
-import kotlinx.serialization.json.buildJsonObject
-import kr.ongil.app.BuildConfig
 import kr.ongil.app.store.AppStore
 import kr.ongil.app.ui.components.BigButton
 import kr.ongil.app.ui.components.Chip
 import kr.ongil.app.ui.components.Hairline
 import kr.ongil.app.ui.components.Ongil
-import kr.ongil.app.ui.components.QrImage
 import kr.ongil.app.ui.components.RailHead
 import kr.ongil.app.store.Screen
 import kr.ongil.app.ui.components.Stage
@@ -101,18 +96,11 @@ fun CardPage(store: AppStore, cardId: String?) {
             }
         }
         Spacer(Modifier.height(18.dp))
-        var showQr by remember { mutableStateOf(false) }
-        run {
-            val payload = remember(card.id, completionTab) { cardUrl(card, completionTab, region?.name ?: "", setTitle, spots.associate { it.id to it.name }, card.achievements.map { achievementLabel(store, it, card.regionId) }) }
-            if (showQr) QrDialog(payload, "이 기록이 카드 이미지로 열려요. 저장해서 바로 보낼 수 있어요.") { showQr = false }
-        }
         val shared = card.id in saved.sharedCardIds
-        Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
-            BigButton("폰으로 받기", Modifier.weight(1f), primary = false, height = Ongil.buttonMedium) { showQr = true }
-            if (!completionTab && card.stampedSpotIds.isNotEmpty())
-                BigButton(if (shared) "코스 올렸어요" else "이 코스 올리기", Modifier.weight(1f), primary = false, enabled = !shared, height = Ongil.buttonMedium) { store.shareCard(card.id) }
+        if (!completionTab && card.stampedSpotIds.isNotEmpty()) {
+            BigButton(if (shared) "코스 올렸어요" else "이 코스 올리기", Modifier.fillMaxWidth(), primary = false, enabled = !shared, height = Ongil.buttonMedium) { store.shareCard(card.id) }
+            Spacer(Modifier.height(10.dp))
         }
-        Spacer(Modifier.height(10.dp))
         when {
             session?.status == TourStatus.DAY_DONE && plan != null && session.planId == card.planId -> BigButton("남은 ${store.remainingCount()}곳 보기", Modifier.fillMaxWidth(), sub = "빼거나 다시 골라 출발해요") { store.viewRemaining() }
             else -> BigButton("내 지도로", Modifier.fillMaxWidth()) { store.go(Screen.MyMap) }
@@ -135,14 +123,3 @@ private fun BoxScope.CardOverlay(card: DayCard, regionName: String?, setTitle: S
     }
 }
 
-/** QR 안에 카드 요약을 통째로. 서버 없이 폰에서 열린다 */
-private fun cardUrl(card: DayCard, completion: Boolean, regionName: String, setTitle: String?, names: Map<String, String>, achievements: List<String>): String {
-    val slim = mapOf(
-        "t" to if (completion) "complete" else "day", "r" to regionName, "d" to card.date, "day" to card.day.toString(),
-        "s" to card.stampedSpotIds.map { names[it] ?: it }.joinToString("|"), "n" to "${card.progressAfter}/${card.progressTotal}",
-        "km" to (card.distanceKm?.toString() ?: ""), "a" to achievements.joinToString("|"), "set" to (setTitle ?: ""), "sim" to if (card.isSimulation) "1" else "0",
-    )
-    val json = buildJsonObject { slim.forEach { (k, v) -> put(k, JsonPrimitive(v)) } }.toString()
-    val b64 = Base64.encodeToString(json.toByteArray(), Base64.URL_SAFE or Base64.NO_WRAP or Base64.NO_PADDING)
-    return "${BuildConfig.SHARE_BASE}/#c=$b64"
-}

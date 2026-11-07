@@ -16,7 +16,6 @@ android {
         versionCode = 1
         versionName = "0.2"
         // 자랑 카드·그날 카드 QR이 여는 정적 페이지(서버 없음, GitHub Pages). 데이터는 URL 프래그먼트에만 있어 서버에 안 남는다
-        buildConfigField("String", "SHARE_BASE", "\"https://gumbokim.github.io/pleos-app-ongil/web\"")
     }
     // 릴리스 서명: ongil/keystore.properties(저장소 제외)에 storeFile/storePassword/keyAlias/keyPassword. 없으면 서명 없이 빌드
     val ksProps = Properties().apply { val f = rootProject.file("keystore.properties"); if (f.exists()) f.inputStream().use { load(it) } }
@@ -53,5 +52,4 @@ dependencies {
     implementation(libs.androidx.animation)
     implementation(libs.kotlinx.coroutines.android)
     implementation(libs.kotlinx.serialization.json)
-    implementation(libs.zxing.core)
 }

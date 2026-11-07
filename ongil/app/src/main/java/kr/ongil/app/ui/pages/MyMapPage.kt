@@ -1,7 +1,6 @@
 package kr.ongil.app.ui.pages
 
 import androidx.compose.foundation.clickable
-import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.graphics.Color
 import androidx.compose.runtime.setValue
 import androidx.compose.runtime.mutableStateOf
@@ -29,22 +28,17 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import kotlinx.serialization.json.JsonPrimitive
-import kotlinx.serialization.json.buildJsonObject
-import kotlinx.serialization.json.put
-import kr.ongil.app.BuildConfig
 import kr.ongil.app.store.AppStore
 import kr.ongil.app.ui.components.BigButton
 import kr.ongil.app.ui.components.Hairline
 import kr.ongil.app.ui.components.Ongil
-import kr.ongil.app.ui.components.QrImage
 import kr.ongil.app.ui.components.RailHead
 import kr.ongil.app.store.Screen
 import kr.ongil.app.ui.components.Stage
 import kr.ongil.app.ui.components.map.KoreaMap
 
 /**
- * 내 지도: 왼쪽은 전국 히트맵(자랑의 기본 단위), 오른쪽은 숫자 셋·지난 여행(여행 단위로 묶음)·폰으로 받기(QR 다이얼로그). 스탬프 숫자를 누르면 스탬프.
+ * 내 지도: 왼쪽은 전국 히트맵(자랑의 기본 단위), 오른쪽은 숫자 셋·지난 여행(여행 단위로 묶음). 스탬프 숫자를 누르면 스탬프.
  */
 @Composable
 fun MyMapPage(store: AppStore) {
@@ -57,9 +51,6 @@ fun MyMapPage(store: AppStore) {
     // 지난 여행은 여행 단위로 묶는다(이어간 회차도 한 줄). 최근 여행이 위
     val trips = remember(saved.cards) { saved.cards.groupBy { it.planId }.values.map { cs -> cs.sortedBy { it.day } }.sortedByDescending { it.last().date } }
     val since = remember(saved.cards) { saved.cards.minOfOrNull { it.date }?.let { "${it.take(4)}년 ${it.substring(5,7).toInt()}월" } }
-    var showQr by remember { mutableStateOf(false) }
-    val payload = remember(heat, done, earnedSetCount, stampedSpots) { mapPayload(heat, done, earnedSetCount, stampedSpots) }
-    if (showQr) QrDialog(payload, "내 지도가 이미지로 열려요. 저장해서 바로 올릴 수 있어요. 기록은 주소 안에만 있고 어디에도 보내지 않아요.") { showQr = false }
 
     Stage(stage = {
         KoreaMap(store.catalog.geometry, heat, null, null, null, Modifier.fillMaxSize(), done = done)
@@ -100,10 +91,7 @@ fun MyMapPage(store: AppStore) {
             }
         }
         Spacer(Modifier.height(16.dp))
-        Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
-            BigButton("폰으로 받기", Modifier.weight(1f), primary = false, height = Ongil.buttonMedium) { showQr = true }
-            BigButton("공개 코스", Modifier.weight(1f), primary = false, height = Ongil.buttonMedium) { store.go(Screen.Courses) }
-        }
+        BigButton("공개 코스", Modifier.fillMaxWidth(), primary = false, height = Ongil.buttonMedium) { store.go(Screen.Courses) }
     }
 }
 
@@ -116,30 +104,3 @@ private fun BigStat(value: String, label: String, color: Color, modifier: Modifi
     }
 }
 
-/** 폰으로 받기: 큰 QR 하나와 설명. 내 지도·여행 기록이 같이 쓴다 */
-@Composable
-internal fun QrDialog(payload: String, body: String, onDismiss: () -> Unit) {
-    Dialog(onDismissRequest = onDismiss) {
-        Row(Modifier.background(Ongil.bg, RoundedCornerShape(Ongil.rLarge)).padding(36.dp), verticalAlignment = Alignment.CenterVertically) {
-            QrImage(payload, 340)
-            Spacer(Modifier.width(32.dp))
-            Column(Modifier.width(380.dp)) {
-                Text("폰 카메라로 찍어요", color = Ongil.ink, fontSize = 34.sp, fontWeight = FontWeight.ExtraBold)
-                Spacer(Modifier.height(10.dp))
-                Text(body, color = Ongil.ink2, fontSize = 24.sp, lineHeight = 36.sp)
-                Spacer(Modifier.height(24.dp))
-                BigButton("닫기", Modifier.fillMaxWidth(), primary = false, height = Ongil.buttonMedium) { onDismiss() }
-            }
-        }
-    }
-}
-
-/** QR 안에 내 지도 요약: 지역별 진하기 + 집계. 폰 페이지가 이미지로 그린다(서버 없음) */
-private fun mapPayload(heat: Map<String, Float>, done: Set<String>, stampCount: Int, spots: Int): String {
-    val json = buildJsonObject {
-        put("t", "map"); put("n", heat.size); put("c", stampCount); put("s", spots)
-        put("h", JsonPrimitive(heat.entries.joinToString(",") { "${it.key}:${"%.1f".format(it.value)}" }))
-        put("d", JsonPrimitive(done.joinToString(",")))
-    }.toString()
-    return "${BuildConfig.SHARE_BASE}/#m=" + java.util.Base64.getUrlEncoder().withoutPadding().encodeToString(json.toByteArray())
-}
