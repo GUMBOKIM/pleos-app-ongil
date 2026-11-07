@@ -1,0 +1,259 @@
+[
+  {
+    "id": "43130",
+    "regionId": "43130",
+    "title": "충주 10경",
+    "spotIds": [
+      "cj-tangeumdae",
+      "cj-jungangtap",
+      "cj-goguryeobi",
+      "cj-chungjudam",
+      "cj-jongdaengi",
+      "cj-mireuk",
+      "cj-suanbo",
+      "cj-hwalok",
+      "cj-binae",
+      "cj-mokgye"
+    ],
+    "by": "충주시 관광과",
+    "note": "10곳에 모두 서면 충주 10경 스탬프.",
+    "official": true,
+    "image": "mascot/mascot-43130.png",
+    "_dev": "마스코트 그림은 자리 표시용(지자체 제공 그림으로 교체) · 시연용 샘플 세트"
+  },
+  {
+    "id": "43130-lake",
+    "regionId": "43130",
+    "title": "충주 호반 3경",
+    "spotIds": [
+      "cj-chungjudam",
+      "cj-tangeumdae",
+      "cj-jongdaengi"
+    ],
+    "by": "충주시 관광과",
+    "note": "충주호 둘레 3곳. 충주 10경과 별개로 받는 스탬프.",
+    "official": true,
+    "motif": "LAKE",
+    "_dev": "시연용 샘플 세트"
+  },
+  {
+    "id": "51150",
+    "regionId": "51150",
+    "title": "강릉 바다 5경",
+    "spotIds": [
+      "gn-01",
+      "gn-02",
+      "gn-03",
+      "gn-04",
+      "gn-08"
+    ],
+    "by": "강릉시 관광과",
+    "note": "해안 명소 5곳에 모두 서면 강릉 바다 5경 스탬프.",
+    "official": true,
+    "image": "mascot/mascot-51150.png",
+    "_dev": "마스코트 그림은 자리 표시용(지자체 제공 그림으로 교체) · 시연용 샘플 세트"
+  },
+  {
+    "id": "51150-pine",
+    "regionId": "51150",
+    "title": "강릉 솔향 3경",
+    "spotIds": [
+      "gn-05",
+      "gn-07",
+      "gn-06"
+    ],
+    "by": "강릉시 관광과",
+    "note": "선교장·소금강·하슬라아트월드. 바다 5경과 별개로 받는 스탬프.",
+    "official": true,
+    "motif": "PINE",
+    "_dev": "시연용 샘플 세트"
+  },
+  {
+    "id": "51210",
+    "regionId": "51210",
+    "title": "속초 설악 4경",
+    "spotIds": [
+      "sc-01",
+      "sc-02",
+      "sc-06",
+      "sc-03"
+    ],
+    "by": "속초시 관광과",
+    "note": "설악산과 바다 4곳.",
+    "official": true,
+    "_dev": "시연용 샘플 세트"
+  },
+  {
+    "id": "43800",
+    "regionId": "43800",
+    "title": "단양 8경",
+    "spotIds": [
+      "dy-01",
+      "dy-02",
+      "dy-03",
+      "dy-04",
+      "dy-05",
+      "dy-06",
+      "dy-07",
+      "dy-08"
+    ],
+    "by": "단양군 문화관광과",
+    "note": "단양팔경을 본뜬 8곳.",
+    "official": true,
+    "_dev": "시연용 샘플 세트"
+  },
+  {
+    "id": "47130",
+    "regionId": "47130",
+    "title": "신라 천년 5경",
+    "spotIds": [
+      "gj-01",
+      "gj-02",
+      "gj-03",
+      "gj-04",
+      "gj-05"
+    ],
+    "by": "경주시 관광컨벤션과",
+    "note": "불국사·석굴암·첨성대·동궁과 월지·대릉원.",
+    "official": true,
+    "_dev": "시연용 샘플 세트"
+  },
+  {
+    "id": "47170",
+    "regionId": "47170",
+    "title": "안동 선비길 4경",
+    "spotIds": [
+      "ad-01",
+      "ad-02",
+      "ad-04",
+      "ad-03"
+    ],
+    "by": "안동시 관광진흥과",
+    "note": "하회마을·도산서원·병산서원·월영교.",
+    "official": true,
+    "_dev": "시연용 샘플 세트"
+  },
+  {
+    "id": "52110",
+    "regionId": "52110",
+    "title": "전주 한옥마을 4경",
+    "spotIds": [
+      "jj-01",
+      "jj-02",
+      "jj-04",
+      "jj-06"
+    ],
+    "by": "전주시 관광산업과",
+    "note": "경기전·전동성당·오목대·풍남문.",
+    "official": true,
+    "_dev": "시연용 샘플 세트"
+  },
+  {
+    "id": "12130",
+    "regionId": "12130",
+    "title": "여수 밤바다 5경",
+    "spotIds": [
+      "ys-01",
+      "ys-02",
+      "ys-03",
+      "ys-04",
+      "ys-05"
+    ],
+    "by": "여수시 관광과",
+    "note": "오동도·향일암·돌산공원·만성리·진남관.",
+    "official": true,
+    "_dev": "시연용 샘플 세트"
+  },
+  {
+    "id": "12710",
+    "regionId": "12710",
+    "title": "담양 대숲 4경",
+    "spotIds": [
+      "dm-01",
+      "dm-02",
+      "dm-03",
+      "dm-04"
+    ],
+    "by": "담양군 관광과",
+    "note": "죽녹원·메타세쿼이아길·소쇄원·관방제림.",
+    "official": true,
+    "_dev": "시연용 샘플 세트"
+  },
+  {
+    "id": "48220",
+    "regionId": "48220",
+    "title": "통영 바다 5경",
+    "spotIds": [
+      "ty-01",
+      "ty-02",
+      "ty-03",
+      "ty-04",
+      "ty-05"
+    ],
+    "by": "통영시 관광과",
+    "note": "동피랑·케이블카·이순신공원·달아공원·서피랑.",
+    "official": true,
+    "_dev": "시연용 샘플 세트"
+  },
+  {
+    "id": "50110",
+    "regionId": "50110",
+    "title": "제주 오름·바다 5경",
+    "spotIds": [
+      "jc-01",
+      "jc-02",
+      "jc-03",
+      "jc-04",
+      "jc-05"
+    ],
+    "by": "제주시 관광진흥과",
+    "note": "만장굴·함덕·용두암·협재·비자림.",
+    "official": true,
+    "image": "mascot/mascot-50110.png",
+    "_dev": "마스코트 그림은 자리 표시용(지자체 제공 그림으로 교체) · 시연용 샘플 세트"
+  },
+  {
+    "id": "50130",
+    "regionId": "50130",
+    "title": "서귀포 폭포 3경",
+    "spotIds": [
+      "sg-01",
+      "sg-02",
+      "sg-03"
+    ],
+    "by": "서귀포시 관광진흥과",
+    "note": "천지연·정방·대포주상절리.",
+    "official": true,
+    "_dev": "시연용 샘플 세트"
+  },
+  {
+    "id": "41820",
+    "regionId": "41820",
+    "title": "가평 호반 4경",
+    "spotIds": [
+      "gp-01",
+      "gp-02",
+      "gp-03",
+      "gp-04"
+    ],
+    "by": "가평군 관광과",
+    "note": "쁘띠프랑스·아침고요수목원·자라섬·청평호반.",
+    "official": true,
+    "_dev": "시연용 샘플 세트"
+  },
+  {
+    "id": "44825",
+    "regionId": "44825",
+    "title": "태안 해안 4경",
+    "spotIds": [
+      "ta-01",
+      "ta-02",
+      "ta-03",
+      "ta-04"
+    ],
+    "by": "태안군 관광진흥과",
+    "note": "꽃지·만리포·천리포수목원·몽산포.",
+    "official": true,
+    "_dev": "시연용 샘플 세트"
+  }
+]

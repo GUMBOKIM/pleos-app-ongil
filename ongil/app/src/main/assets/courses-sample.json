@@ -1,0 +1,7609 @@
+[
+ {
+  "id": "c-12130-official",
+  "title": "여수 추천 코스",
+  "regionId": "12130",
+  "spotIds": [
+   "ys-01",
+   "ys-03",
+   "ys-05",
+   "ys-04",
+   "ys-02"
+  ],
+  "by": "여수시 관광과",
+  "date": "2026-03-01",
+  "distanceKm": 51.8,
+  "cars": 400,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-51210-official",
+  "title": "속초 추천 코스",
+  "regionId": "51210",
+  "spotIds": [
+   "sc-01",
+   "sc-02",
+   "sc-06",
+   "sc-03"
+  ],
+  "by": "속초시 관광과",
+  "date": "2026-03-01",
+  "distanceKm": 31.9,
+  "cars": 379,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-52110-official",
+  "title": "전주 추천 코스",
+  "regionId": "52110",
+  "spotIds": [
+   "jj-01",
+   "jj-02",
+   "jj-06",
+   "jj-04"
+  ],
+  "by": "전주시 관광산업과",
+  "date": "2026-03-01",
+  "distanceKm": 13.2,
+  "cars": 352,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-47170-official",
+  "title": "안동 추천 코스",
+  "regionId": "47170",
+  "spotIds": [
+   "ad-01",
+   "ad-04",
+   "ad-03",
+   "ad-02"
+  ],
+  "by": "안동시 관광진흥과",
+  "date": "2026-03-01",
+  "distanceKm": 65.7,
+  "cars": 302,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-47130-official",
+  "title": "경주 추천 코스",
+  "regionId": "47130",
+  "spotIds": [
+   "gj-01",
+   "gj-02",
+   "gj-04",
+   "gj-03",
+   "gj-05"
+  ],
+  "by": "경주시 관광컨벤션과",
+  "date": "2026-03-01",
+  "distanceKm": 32.5,
+  "cars": 268,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-43800-official",
+  "title": "단양 추천 코스",
+  "regionId": "43800",
+  "spotIds": [
+   "dy-01",
+   "dy-06",
+   "dy-02",
+   "dy-08",
+   "dy-05",
+   "dy-04",
+   "dy-03",
+   "dy-07"
+  ],
+  "by": "단양군 문화관광과",
+  "date": "2026-03-01",
+  "distanceKm": 96.6,
+  "cars": 248,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-48220-official",
+  "title": "통영 추천 코스",
+  "regionId": "48220",
+  "spotIds": [
+   "ty-01",
+   "ty-05",
+   "ty-02",
+   "ty-03",
+   "ty-04"
+  ],
+  "by": "통영시 관광과",
+  "date": "2026-03-01",
+  "distanceKm": 31.6,
+  "cars": 244,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-51150-official",
+  "title": "강릉 추천 코스",
+  "regionId": "51150",
+  "spotIds": [
+   "gn-01",
+   "gn-08",
+   "gn-04",
+   "gn-02",
+   "gn-03"
+  ],
+  "by": "강릉시 관광과",
+  "date": "2026-03-01",
+  "distanceKm": 74.3,
+  "cars": 230,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-41820-official",
+  "title": "가평 추천 코스",
+  "regionId": "41820",
+  "spotIds": [
+   "gp-01",
+   "gp-04",
+   "gp-02",
+   "gp-03"
+  ],
+  "by": "가평군 관광과",
+  "date": "2026-03-01",
+  "distanceKm": 57.6,
+  "cars": 224,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-50130-official",
+  "title": "서귀포 추천 코스",
+  "regionId": "50130",
+  "spotIds": [
+   "sg-01",
+   "sg-02",
+   "sg-03"
+  ],
+  "by": "서귀포시 관광진흥과",
+  "date": "2026-03-01",
+  "distanceKm": 32.1,
+  "cars": 222,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-12710-official",
+  "title": "담양 추천 코스",
+  "regionId": "12710",
+  "spotIds": [
+   "dm-01",
+   "dm-04",
+   "dm-02",
+   "dm-03"
+  ],
+  "by": "담양군 관광과",
+  "date": "2026-03-01",
+  "distanceKm": 35.8,
+  "cars": 193,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-44825-official",
+  "title": "태안 추천 코스",
+  "regionId": "44825",
+  "spotIds": [
+   "ta-01",
+   "ta-04",
+   "ta-02",
+   "ta-03"
+  ],
+  "by": "태안군 관광진흥과",
+  "date": "2026-03-01",
+  "distanceKm": 64.7,
+  "cars": 192,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-50110-official",
+  "title": "제주 추천 코스",
+  "regionId": "50110",
+  "spotIds": [
+   "jc-01",
+   "jc-05",
+   "jc-02",
+   "jc-03",
+   "jc-04"
+  ],
+  "by": "제주시 관광진흥과",
+  "date": "2026-03-01",
+  "distanceKm": 97.9,
+  "cars": 172,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-43130-official",
+  "title": "충주 추천 코스",
+  "regionId": "43130",
+  "spotIds": [
+   "cj-tangeumdae",
+   "cj-jungangtap",
+   "cj-goguryeobi",
+   "cj-mokgye",
+   "cj-binae",
+   "cj-chungjudam",
+   "cj-jongdaengi",
+   "cj-hwalok",
+   "cj-suanbo",
+   "cj-mireuk"
+  ],
+  "by": "충주시 관광과",
+  "date": "2026-03-01",
+  "distanceKm": 102.9,
+  "cars": 146,
+  "verified": true,
+  "sample": true,
+  "official": true
+ },
+ {
+  "id": "c-47130-1",
+  "title": "경주 천년 코스 1박",
+  "regionId": "47130",
+  "spotIds": [
+   "gj-01",
+   "gj-02",
+   "gj-04",
+   "gj-03",
+   "gj-05",
+   "gj-07",
+   "gj-06"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-04-05",
+  "distanceKm": 96.0,
+  "cars": 341,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41410-g2",
+  "title": "군포 반나절 드라이브",
+  "regionId": "41410",
+  "spotIds": [
+   "r41410-03",
+   "r41410-06",
+   "r41410-01",
+   "r41410-02"
+  ],
+  "by": "포터로캠핑",
+  "date": "2026-07-24",
+  "distanceKm": 35.7,
+  "cars": 306,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51150-0",
+  "title": "강릉 바다 따라 하루",
+  "regionId": "51150",
+  "spotIds": [
+   "gn-01",
+   "gn-05",
+   "gn-04",
+   "gn-02",
+   "gn-03"
+  ],
+  "by": "아이오닉타고",
+  "date": "2026-09-02",
+  "distanceKm": 148.0,
+  "cars": 212,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-52110-5",
+  "title": "전주 한옥 골목 코스",
+  "regionId": "52110",
+  "spotIds": [
+   "jj-01",
+   "jj-02",
+   "jj-04",
+   "jj-05",
+   "jj-03"
+  ],
+  "by": "EV초보",
+  "date": "2026-06-22",
+  "distanceKm": 38.0,
+  "cars": 190,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12820-g1",
+  "title": "함평 하루 코스",
+  "regionId": "12820",
+  "spotIds": [
+   "r12820-01",
+   "r12820-02",
+   "r12820-03",
+   "r12820-05"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-06-24",
+  "distanceKm": 50.5,
+  "cars": 182,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11260-g0",
+  "title": "중랑구 1박2일 알차게",
+  "regionId": "11260",
+  "spotIds": [
+   "r11260-01",
+   "r11260-03",
+   "r11260-04",
+   "r11260-05",
+   "r11260-06",
+   "r11260-02"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-07-18",
+  "distanceKm": 26.2,
+  "cars": 148,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-50130-3",
+  "title": "서귀포 폭포 셋",
+  "regionId": "50130",
+  "spotIds": [
+   "sg-01",
+   "sg-02",
+   "sg-05",
+   "sg-04",
+   "sg-03"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-08-28",
+  "distanceKm": 71.0,
+  "cars": 128,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12840-g1",
+  "title": "장성 숨은 곳만",
+  "regionId": "12840",
+  "spotIds": [
+   "r12840-02",
+   "r12840-03",
+   "r12840-05",
+   "r12840-06",
+   "r12840-01",
+   "r12840-04"
+  ],
+  "by": "EV초보",
+  "date": "2026-03-25",
+  "distanceKm": 62.6,
+  "cars": 122,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48870-g3",
+  "title": "비 오는 날 함양 4",
+  "regionId": "48870",
+  "spotIds": [
+   "r48870-03",
+   "r48870-01",
+   "r48870-06",
+   "r48870-05",
+   "r48870-04",
+   "r48870-02"
+  ],
+  "by": "노을수집가",
+  "date": "2026-07-25",
+  "distanceKm": 74.5,
+  "cars": 121,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44130-g1",
+  "title": "천안 하루 코스",
+  "regionId": "44130",
+  "spotIds": [
+   "r44130-01",
+   "r44130-02",
+   "r44130-03"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-08-14",
+  "distanceKm": 45.2,
+  "cars": 115,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44825-g0",
+  "title": "부모님 모시고 태안",
+  "regionId": "44825",
+  "spotIds": [
+   "ta-03",
+   "ta-02",
+   "ta-04",
+   "ta-05",
+   "ta-01"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-08-05",
+  "distanceKm": 81.5,
+  "cars": 115,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12240-g1",
+  "title": "서구 1박2일 알차게",
+  "regionId": "12240",
+  "spotIds": [
+   "r12240-02",
+   "r12240-05",
+   "r12240-01",
+   "r12240-03"
+  ],
+  "by": "혼자드라이브",
+  "date": "2026-08-04",
+  "distanceKm": 22.5,
+  "cars": 111,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48870-g1",
+  "title": "함양 사진 찍기 좋은 순서",
+  "regionId": "48870",
+  "spotIds": [
+   "r48870-03",
+   "r48870-01",
+   "r48870-05",
+   "r48870-04",
+   "r48870-02"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-04-25",
+  "distanceKm": 72.2,
+  "cars": 109,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44825-g4",
+  "title": "태안 하루 코스",
+  "regionId": "44825",
+  "spotIds": [
+   "ta-06",
+   "ta-08",
+   "ta-02",
+   "ta-07",
+   "ta-04",
+   "ta-01"
+  ],
+  "by": "아이5오너",
+  "date": "2026-05-27",
+  "distanceKm": 88.0,
+  "cars": 108,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44710-g2",
+  "title": "금산 1박2일 알차게",
+  "regionId": "44710",
+  "spotIds": [
+   "r44710-01",
+   "r44710-03",
+   "r44710-02"
+  ],
+  "by": "커피로드",
+  "date": "2026-05-26",
+  "distanceKm": 37.0,
+  "cars": 107,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28710-g0",
+  "title": "강화 사진 찍기 좋은 순서",
+  "regionId": "28710",
+  "spotIds": [
+   "r28710-02",
+   "r28710-01",
+   "r28710-03",
+   "r28710-06"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-07-06",
+  "distanceKm": 52.4,
+  "cars": 105,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12710-g2",
+  "title": "아이랑 담양",
+  "regionId": "12710",
+  "spotIds": [
+   "dm-02",
+   "dm-04",
+   "dm-01",
+   "dm-07",
+   "dm-03",
+   "dm-05"
+  ],
+  "by": "EV초보",
+  "date": "2026-08-06",
+  "distanceKm": 2657.0,
+  "cars": 104,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27230-g0",
+  "title": "북구 반나절 드라이브",
+  "regionId": "27230",
+  "spotIds": [
+   "r27230-01",
+   "r27230-03",
+   "r27230-06",
+   "r27230-04",
+   "r27230-05",
+   "r27230-02"
+  ],
+  "by": "섬돌이",
+  "date": "2026-07-19",
+  "distanceKm": 30.2,
+  "cars": 102,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48270-g1",
+  "title": "밀양 반나절 드라이브",
+  "regionId": "48270",
+  "spotIds": [
+   "r48270-02",
+   "r48270-04",
+   "r48270-06",
+   "r48270-01",
+   "r48270-03"
+  ],
+  "by": "아이5오너",
+  "date": "2026-03-01",
+  "distanceKm": 63.9,
+  "cars": 101,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12130-7",
+  "title": "여수 밤바다 전에",
+  "regionId": "12130",
+  "spotIds": [
+   "ys-01",
+   "ys-03",
+   "ys-05",
+   "ys-04",
+   "ys-02"
+  ],
+  "by": "코나로전국",
+  "date": "2026-04-04",
+  "distanceKm": 57.0,
+  "cars": 99,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41630-g0",
+  "title": "아이랑 양주",
+  "regionId": "41630",
+  "spotIds": [
+   "r41630-01",
+   "r41630-05",
+   "r41630-03",
+   "r41630-02",
+   "r41630-04",
+   "r41630-06"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-10-19",
+  "distanceKm": 95.8,
+  "cars": 96,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41590-g1",
+  "title": "화성 대표만 콕",
+  "regionId": "41590",
+  "spotIds": [
+   "r41590-02",
+   "r41590-03",
+   "r41590-01",
+   "r41590-04",
+   "r41590-05"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-10-10",
+  "distanceKm": 62.0,
+  "cars": 93,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44180-g0",
+  "title": "보령 점심 전에 끝",
+  "regionId": "44180",
+  "spotIds": [
+   "r44180-01",
+   "r44180-02",
+   "r44180-03",
+   "r44180-04"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-09-12",
+  "distanceKm": 57.3,
+  "cars": 92,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26410-g1",
+  "title": "금정구 주말 한 바퀴",
+  "regionId": "26410",
+  "spotIds": [
+   "r26410-02",
+   "r26410-01",
+   "r26410-04",
+   "r26410-03"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-07-13",
+  "distanceKm": 30.3,
+  "cars": 89,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48730-g0",
+  "title": "함안 노을까지",
+  "regionId": "48730",
+  "spotIds": [
+   "r48730-02",
+   "r48730-03",
+   "r48730-01"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-04-24",
+  "distanceKm": 39.3,
+  "cars": 87,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48220-4",
+  "title": "통영 섬·언덕",
+  "regionId": "48220",
+  "spotIds": [
+   "ty-01",
+   "ty-05",
+   "ty-02",
+   "ty-03",
+   "ty-04"
+  ],
+  "by": "은퇴여행자",
+  "date": "2026-06-13",
+  "distanceKm": 54.0,
+  "cars": 83,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51810-g0",
+  "title": "부모님 모시고 인제",
+  "regionId": "51810",
+  "spotIds": [
+   "r51810-02",
+   "r51810-01",
+   "r51810-03"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-07-02",
+  "distanceKm": 46.3,
+  "cars": 83,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11350-g1",
+  "title": "노원구 둘이서 천천히",
+  "regionId": "11350",
+  "spotIds": [
+   "r11350-03",
+   "r11350-05",
+   "r11350-01",
+   "r11350-02",
+   "r11350-04"
+  ],
+  "by": "산길만골라",
+  "date": "2026-09-25",
+  "distanceKm": 31.6,
+  "cars": 82,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44210-g1",
+  "title": "서산 전기차로 한 바퀴",
+  "regionId": "44210",
+  "spotIds": [
+   "r44210-02",
+   "r44210-01",
+   "r44210-03"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-09-28",
+  "distanceKm": 45.5,
+  "cars": 80,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41550-g4",
+  "title": "안성 하루 코스 5",
+  "regionId": "41550",
+  "spotIds": [
+   "r41550-06",
+   "r41550-05",
+   "r41550-01",
+   "r41550-02",
+   "r41550-03",
+   "r41550-04"
+  ],
+  "by": "동해안러버",
+  "date": "2026-04-13",
+  "distanceKm": 64.1,
+  "cars": 78,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11350-g3",
+  "title": "부모님 모시고 노원구",
+  "regionId": "11350",
+  "spotIds": [
+   "r11350-02",
+   "r11350-06",
+   "r11350-04",
+   "r11350-03",
+   "r11350-01"
+  ],
+  "by": "섬돌이",
+  "date": "2026-07-04",
+  "distanceKm": 18.7,
+  "cars": 74,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41670-g1",
+  "title": "부모님 모시고 여주",
+  "regionId": "41670",
+  "spotIds": [
+   "r41670-01",
+   "r41670-03",
+   "r41670-02"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-05-21",
+  "distanceKm": 55.5,
+  "cars": 74,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48120-g3",
+  "title": "창원 반나절 드라이브",
+  "regionId": "48120",
+  "spotIds": [
+   "r48120-03",
+   "r48120-01",
+   "r48120-02",
+   "r48120-06"
+  ],
+  "by": "은퇴여행자",
+  "date": "2026-10-15",
+  "distanceKm": 47.0,
+  "cars": 72,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11215-g3",
+  "title": "광진구 둘이서 천천히",
+  "regionId": "11215",
+  "spotIds": [
+   "r11215-01",
+   "r11215-02",
+   "r11215-03"
+  ],
+  "by": "로컬맛집헌터",
+  "date": "2026-10-09",
+  "distanceKm": 19.4,
+  "cars": 71,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41210-g0",
+  "title": "광명 처음이라면",
+  "regionId": "41210",
+  "spotIds": [
+   "r41210-03",
+   "r41210-01",
+   "r41210-05",
+   "r41210-02",
+   "r41210-06",
+   "r41210-04"
+  ],
+  "by": "지도칠하는중",
+  "date": "2026-07-22",
+  "distanceKm": 32.0,
+  "cars": 70,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51790-g0",
+  "title": "화천 1박2일 알차게",
+  "regionId": "51790",
+  "spotIds": [
+   "r51790-03",
+   "r51790-01",
+   "r51790-05",
+   "r51790-04",
+   "r51790-02"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-07-25",
+  "distanceKm": 73.8,
+  "cars": 70,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11470-g1",
+  "title": "부모님 모시고 양천구",
+  "regionId": "11470",
+  "spotIds": [
+   "r11470-01",
+   "r11470-03",
+   "r11470-02",
+   "r11470-05"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-07-04",
+  "distanceKm": 33.4,
+  "cars": 68,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-50130-g0",
+  "title": "서귀포 숨은 곳만",
+  "regionId": "50130",
+  "spotIds": [
+   "sg-01",
+   "sg-02",
+   "sg-05",
+   "sg-04",
+   "sg-03",
+   "sg-08"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-03-19",
+  "distanceKm": 50.8,
+  "cars": 66,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-52110-g2",
+  "title": "전주 주말 한 바퀴",
+  "regionId": "52110",
+  "spotIds": [
+   "jj-04",
+   "jj-01",
+   "jj-02",
+   "jj-03"
+  ],
+  "by": "바다만골라",
+  "date": "2026-08-27",
+  "distanceKm": 26.0,
+  "cars": 66,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43800-6",
+  "title": "단양 절경 하루",
+  "regionId": "43800",
+  "spotIds": [
+   "dy-01",
+   "dy-02",
+   "dy-03",
+   "dy-05",
+   "dy-04"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-04-21",
+  "distanceKm": 88.0,
+  "cars": 64,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11350-g0",
+  "title": "노원구 대표만 콕",
+  "regionId": "11350",
+  "spotIds": [
+   "r11350-02",
+   "r11350-06",
+   "r11350-04",
+   "r11350-03",
+   "r11350-01"
+  ],
+  "by": "로컬맛집헌터",
+  "date": "2026-10-04",
+  "distanceKm": 26.2,
+  "cars": 64,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12780-g2",
+  "title": "비 오는 날 강진",
+  "regionId": "12780",
+  "spotIds": [
+   "r12780-01",
+   "r12780-02",
+   "r12780-03",
+   "r12780-06",
+   "r12780-05"
+  ],
+  "by": "지도칠하는중",
+  "date": "2026-07-25",
+  "distanceKm": 81.9,
+  "cars": 64,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47760-g3",
+  "title": "영양 노을까지",
+  "regionId": "47760",
+  "spotIds": [
+   "r47760-01",
+   "r47760-02",
+   "r47760-03"
+  ],
+  "by": "EV초보",
+  "date": "2026-10-20",
+  "distanceKm": 58.3,
+  "cars": 64,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12150-g3",
+  "title": "순천 둘이서 천천히 4",
+  "regionId": "12150",
+  "spotIds": [
+   "r12150-02",
+   "r12150-06",
+   "r12150-03",
+   "r12150-01"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-08-19",
+  "distanceKm": 40.8,
+  "cars": 61,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48850-g3",
+  "title": "부모님 모시고 하동",
+  "regionId": "48850",
+  "spotIds": [
+   "r48850-03",
+   "r48850-01",
+   "r48850-02"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-06-28",
+  "distanceKm": 45.7,
+  "cars": 61,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12240-g3",
+  "title": "서구 숨은 곳만",
+  "regionId": "12240",
+  "spotIds": [
+   "r12240-03",
+   "r12240-06",
+   "r12240-04",
+   "r12240-05",
+   "r12240-01",
+   "r12240-02"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-10-15",
+  "distanceKm": 21.4,
+  "cars": 59,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26470-g2",
+  "title": "연제구 숨은 곳만",
+  "regionId": "26470",
+  "spotIds": [
+   "r26470-01",
+   "r26470-03",
+   "r26470-02",
+   "r26470-04"
+  ],
+  "by": "코나로전국",
+  "date": "2026-07-26",
+  "distanceKm": 24.3,
+  "cars": 59,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26530-g1",
+  "title": "사상구 사진 찍기 좋은 순서",
+  "regionId": "26530",
+  "spotIds": [
+   "r26530-03",
+   "r26530-04",
+   "r26530-02",
+   "r26530-01"
+  ],
+  "by": "포터로캠핑",
+  "date": "2026-10-22",
+  "distanceKm": 37.6,
+  "cars": 58,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-36110-g1",
+  "title": "세종 주말 한 바퀴 2",
+  "regionId": "36110",
+  "spotIds": [
+   "r36110-03",
+   "r36110-01",
+   "r36110-02"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-06-21",
+  "distanceKm": 38.8,
+  "cars": 58,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43730-g0",
+  "title": "옥천 주말 한 바퀴",
+  "regionId": "43730",
+  "spotIds": [
+   "r43730-01",
+   "r43730-05",
+   "r43730-03",
+   "r43730-04",
+   "r43730-06",
+   "r43730-02"
+  ],
+  "by": "노을수집가",
+  "date": "2026-03-21",
+  "distanceKm": 46.6,
+  "cars": 58,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43130-2",
+  "title": "충주 호반 반나절",
+  "regionId": "43130",
+  "spotIds": [
+   "cj-tangeumdae",
+   "cj-jungangtap",
+   "cj-chungjudam",
+   "cj-suanbo"
+  ],
+  "by": "동해안러버",
+  "date": "2026-05-01",
+  "distanceKm": 62.0,
+  "cars": 57,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11170-g1",
+  "title": "용산구 주말 한 바퀴",
+  "regionId": "11170",
+  "spotIds": [
+   "r11170-01",
+   "r11170-02",
+   "r11170-03"
+  ],
+  "by": "노을수집가",
+  "date": "2026-10-13",
+  "distanceKm": 22.7,
+  "cars": 56,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11560-g2",
+  "title": "영등포구 전기차로 한 바퀴",
+  "regionId": "11560",
+  "spotIds": [
+   "r11560-02",
+   "r11560-03",
+   "r11560-04",
+   "r11560-01",
+   "r11560-05"
+  ],
+  "by": "산길만골라",
+  "date": "2026-03-18",
+  "distanceKm": 29.8,
+  "cars": 56,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-31140-g1",
+  "title": "남구 1박2일 알차게",
+  "regionId": "31140",
+  "spotIds": [
+   "r31140-03",
+   "r31140-04",
+   "r31140-02",
+   "r31140-05",
+   "r31140-01",
+   "r31140-06"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-04-12",
+  "distanceKm": 41.1,
+  "cars": 56,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28237-g3",
+  "title": "부평구 둘이서 천천히",
+  "regionId": "28237",
+  "spotIds": [
+   "r28237-01",
+   "r28237-03",
+   "r28237-02",
+   "r28237-05",
+   "r28237-04",
+   "r28237-06"
+  ],
+  "by": "은퇴여행자",
+  "date": "2026-06-24",
+  "distanceKm": 31.4,
+  "cars": 55,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47730-g0",
+  "title": "의성 1박2일 알차게",
+  "regionId": "47730",
+  "spotIds": [
+   "r47730-01",
+   "r47730-03",
+   "r47730-04",
+   "r47730-05",
+   "r47730-06",
+   "r47730-02"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-08-28",
+  "distanceKm": 130.3,
+  "cars": 54,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-52110-g3",
+  "title": "전주 노을까지",
+  "regionId": "52110",
+  "spotIds": [
+   "jj-01",
+   "jj-04",
+   "jj-03"
+  ],
+  "by": "코나로전국",
+  "date": "2026-05-07",
+  "distanceKm": 31.4,
+  "cars": 54,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47840-g0",
+  "title": "성주 숨은 곳만",
+  "regionId": "47840",
+  "spotIds": [
+   "r47840-02",
+   "r47840-03",
+   "r47840-01",
+   "r47840-06",
+   "r47840-04"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-04-12",
+  "distanceKm": 50.9,
+  "cars": 53,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48270-g0",
+  "title": "밀양 숨은 곳만",
+  "regionId": "48270",
+  "spotIds": [
+   "r48270-01",
+   "r48270-03",
+   "r48270-02",
+   "r48270-05"
+  ],
+  "by": "커피로드",
+  "date": "2026-09-28",
+  "distanceKm": 79.1,
+  "cars": 53,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41820-g4",
+  "title": "가평 점심 전에 끝 5",
+  "regionId": "41820",
+  "spotIds": [
+   "gp-06",
+   "gp-08",
+   "gp-07"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-03-12",
+  "distanceKm": 53.8,
+  "cars": 52,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48820-g1",
+  "title": "고성 전기차로 한 바퀴",
+  "regionId": "48820",
+  "spotIds": [
+   "r48820-02",
+   "r48820-03",
+   "r48820-01"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-06-26",
+  "distanceKm": 62.7,
+  "cars": 52,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11470-g3",
+  "title": "양천구 대표만 콕",
+  "regionId": "11470",
+  "spotIds": [
+   "r11470-02",
+   "r11470-03",
+   "r11470-01"
+  ],
+  "by": "코나로전국",
+  "date": "2026-08-12",
+  "distanceKm": 20.5,
+  "cars": 51,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12860-g2",
+  "title": "부모님 모시고 진도",
+  "regionId": "12860",
+  "spotIds": [
+   "r12860-02",
+   "r12860-01",
+   "r12860-03"
+  ],
+  "by": "섬돌이",
+  "date": "2026-04-25",
+  "distanceKm": 17.2,
+  "cars": 50,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26530-g0",
+  "title": "아이랑 사상구",
+  "regionId": "26530",
+  "spotIds": [
+   "r26530-01",
+   "r26530-06",
+   "r26530-05",
+   "r26530-02",
+   "r26530-03"
+  ],
+  "by": "혼자드라이브",
+  "date": "2026-09-20",
+  "distanceKm": 36.3,
+  "cars": 49,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43130-g0",
+  "title": "충주 처음이라면",
+  "regionId": "43130",
+  "spotIds": [
+   "cj-chungjudam",
+   "cj-hwalok",
+   "cj-tangeumdae",
+   "cj-jungangtap",
+   "cj-suanbo"
+  ],
+  "by": "신혼여행중",
+  "date": "2026-06-16",
+  "distanceKm": 68.4,
+  "cars": 48,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27110-g2",
+  "title": "중구 둘이서 천천히",
+  "regionId": "27110",
+  "spotIds": [
+   "r27110-01",
+   "r27110-06",
+   "r27110-04",
+   "r27110-02",
+   "r27110-03",
+   "r27110-05"
+  ],
+  "by": "산길만골라",
+  "date": "2026-08-01",
+  "distanceKm": 21.5,
+  "cars": 47,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11530-g2",
+  "title": "구로구 처음이라면",
+  "regionId": "11530",
+  "spotIds": [
+   "r11530-03",
+   "r11530-01",
+   "r11530-02"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-04-13",
+  "distanceKm": 26.1,
+  "cars": 46,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26170-g3",
+  "title": "아이랑 동구",
+  "regionId": "26170",
+  "spotIds": [
+   "r26170-02",
+   "r26170-04",
+   "r26170-03",
+   "r26170-01"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-07-26",
+  "distanceKm": 15.4,
+  "cars": 46,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-36110-g4",
+  "title": "부모님 모시고 세종",
+  "regionId": "36110",
+  "spotIds": [
+   "r36110-03",
+   "r36110-01",
+   "r36110-02"
+  ],
+  "by": "혼자드라이브",
+  "date": "2026-08-12",
+  "distanceKm": 46.5,
+  "cars": 46,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41310-g1",
+  "title": "구리 하루 코스",
+  "regionId": "41310",
+  "spotIds": [
+   "r41310-01",
+   "r41310-04",
+   "r41310-03",
+   "r41310-06",
+   "r41310-02"
+  ],
+  "by": "코나로전국",
+  "date": "2026-08-06",
+  "distanceKm": 34.3,
+  "cars": 46,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11680-g2",
+  "title": "강남구 1박2일 알차게",
+  "regionId": "11680",
+  "spotIds": [
+   "r11680-03",
+   "r11680-06",
+   "r11680-05",
+   "r11680-02",
+   "r11680-01"
+  ],
+  "by": "노을수집가",
+  "date": "2026-07-23",
+  "distanceKm": 25.1,
+  "cars": 45,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26470-g1",
+  "title": "연제구 주말 한 바퀴",
+  "regionId": "26470",
+  "spotIds": [
+   "r26470-02",
+   "r26470-03",
+   "r26470-06",
+   "r26470-05",
+   "r26470-01",
+   "r26470-04"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-08-21",
+  "distanceKm": 34.6,
+  "cars": 45,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43745-g0",
+  "title": "아이랑 증평",
+  "regionId": "43745",
+  "spotIds": [
+   "r43745-01",
+   "r43745-02",
+   "r43745-03",
+   "r43745-06"
+  ],
+  "by": "신혼여행중",
+  "date": "2026-04-01",
+  "distanceKm": 59.2,
+  "cars": 45,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44710-g0",
+  "title": "금산 하루 코스",
+  "regionId": "44710",
+  "spotIds": [
+   "r44710-01",
+   "r44710-03",
+   "r44710-05",
+   "r44710-02",
+   "r44710-06",
+   "r44710-04"
+  ],
+  "by": "포터로캠핑",
+  "date": "2026-05-21",
+  "distanceKm": 82.2,
+  "cars": 45,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51750-g3",
+  "title": "영월 노을까지",
+  "regionId": "51750",
+  "spotIds": [
+   "r51750-03",
+   "r51750-01",
+   "r51750-06",
+   "r51750-02",
+   "r51750-04"
+  ],
+  "by": "혼자드라이브",
+  "date": "2026-07-05",
+  "distanceKm": 77.2,
+  "cars": 45,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41410-g1",
+  "title": "군포 전기차로 한 바퀴 2",
+  "regionId": "41410",
+  "spotIds": [
+   "r41410-02",
+   "r41410-03",
+   "r41410-01",
+   "r41410-04"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-05-21",
+  "distanceKm": 35.3,
+  "cars": 44,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48220-g1",
+  "title": "통영 전기차로 한 바퀴",
+  "regionId": "48220",
+  "spotIds": [
+   "ty-01",
+   "ty-05",
+   "ty-02",
+   "ty-03",
+   "ty-04"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-05-25",
+  "distanceKm": 46.9,
+  "cars": 44,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48890-g2",
+  "title": "합천 1박2일 알차게",
+  "regionId": "48890",
+  "spotIds": [
+   "r48890-02",
+   "r48890-03",
+   "r48890-01",
+   "r48890-06",
+   "r48890-05"
+  ],
+  "by": "바다만골라",
+  "date": "2026-04-11",
+  "distanceKm": 101.2,
+  "cars": 44,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12720-g0",
+  "title": "곡성 점심 전에 끝",
+  "regionId": "12720",
+  "spotIds": [
+   "r12720-03",
+   "r12720-01",
+   "r12720-02",
+   "r12720-06",
+   "r12720-04"
+  ],
+  "by": "캠핑의자둘",
+  "date": "2026-10-22",
+  "distanceKm": 61.9,
+  "cars": 43,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12740-g3",
+  "title": "고흥 전기차로 한 바퀴",
+  "regionId": "12740",
+  "spotIds": [
+   "r12740-01",
+   "r12740-03",
+   "r12740-02"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-05-15",
+  "distanceKm": 29.9,
+  "cars": 43,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44130-g0",
+  "title": "부모님 모시고 천안",
+  "regionId": "44130",
+  "spotIds": [
+   "r44130-03",
+   "r44130-02",
+   "r44130-01",
+   "r44130-04"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-09-04",
+  "distanceKm": 74.8,
+  "cars": 43,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41210-g2",
+  "title": "광명 노을까지",
+  "regionId": "41210",
+  "spotIds": [
+   "r41210-02",
+   "r41210-05",
+   "r41210-04",
+   "r41210-06",
+   "r41210-03",
+   "r41210-01"
+  ],
+  "by": "강아지랑차박",
+  "date": "2026-04-14",
+  "distanceKm": 39.1,
+  "cars": 42,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44180-g2",
+  "title": "보령 하루 코스",
+  "regionId": "44180",
+  "spotIds": [
+   "r44180-03",
+   "r44180-02",
+   "r44180-01"
+  ],
+  "by": "커피로드",
+  "date": "2026-08-28",
+  "distanceKm": 39.1,
+  "cars": 42,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12300-g3",
+  "title": "북구 점심 전에 끝",
+  "regionId": "12300",
+  "spotIds": [
+   "r12300-02",
+   "r12300-03",
+   "r12300-01"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-06-08",
+  "distanceKm": 30.9,
+  "cars": 40,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27170-g3",
+  "title": "서구 1박2일 알차게",
+  "regionId": "27170",
+  "spotIds": [
+   "r27170-03",
+   "r27170-05",
+   "r27170-01",
+   "r27170-02",
+   "r27170-06",
+   "r27170-04"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-05-15",
+  "distanceKm": 20.3,
+  "cars": 40,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-30170-g2",
+  "title": "아이랑 서구",
+  "regionId": "30170",
+  "spotIds": [
+   "r30170-01",
+   "r30170-02",
+   "r30170-06",
+   "r30170-03"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-09-21",
+  "distanceKm": 50.3,
+  "cars": 40,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26410-g0",
+  "title": "금정구 반나절 드라이브",
+  "regionId": "26410",
+  "spotIds": [
+   "r26410-03",
+   "r26410-02",
+   "r26410-01"
+  ],
+  "by": "로컬맛집헌터",
+  "date": "2026-06-04",
+  "distanceKm": 28.2,
+  "cars": 39,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43150-g1",
+  "title": "비 오는 날 제천",
+  "regionId": "43150",
+  "spotIds": [
+   "r43150-01",
+   "r43150-02",
+   "r43150-06",
+   "r43150-05",
+   "r43150-03"
+  ],
+  "by": "혼자드라이브",
+  "date": "2026-09-26",
+  "distanceKm": 62.6,
+  "cars": 39,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48220-g2",
+  "title": "비 오는 날 통영",
+  "regionId": "48220",
+  "spotIds": [
+   "ty-05",
+   "ty-01",
+   "ty-03",
+   "ty-02",
+   "ty-04",
+   "ty-07"
+  ],
+  "by": "섬돌이",
+  "date": "2026-08-26",
+  "distanceKm": 62.5,
+  "cars": 39,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11680-g0",
+  "title": "부모님 모시고 강남구",
+  "regionId": "11680",
+  "spotIds": [
+   "r11680-02",
+   "r11680-01",
+   "r11680-03"
+  ],
+  "by": "동해안러버",
+  "date": "2026-06-26",
+  "distanceKm": 13.6,
+  "cars": 38,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12190-g1",
+  "title": "비 오는 날 광양",
+  "regionId": "12190",
+  "spotIds": [
+   "r12190-01",
+   "r12190-02",
+   "r12190-04",
+   "r12190-03",
+   "r12190-06"
+  ],
+  "by": "노을수집가",
+  "date": "2026-06-02",
+  "distanceKm": 362.7,
+  "cars": 38,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26230-g1",
+  "title": "부산진구 노을까지",
+  "regionId": "26230",
+  "spotIds": [
+   "r26230-02",
+   "r26230-01",
+   "r26230-03",
+   "r26230-05",
+   "r26230-04"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-07-28",
+  "distanceKm": 37.2,
+  "cars": 38,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27290-g2",
+  "title": "달서구 대표만 콕",
+  "regionId": "27290",
+  "spotIds": [
+   "r27290-03",
+   "r27290-06",
+   "r27290-02",
+   "r27290-05",
+   "r27290-04",
+   "r27290-01"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-07-17",
+  "distanceKm": 32.1,
+  "cars": 38,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28237-g1",
+  "title": "비 오는 날 부평구",
+  "regionId": "28237",
+  "spotIds": [
+   "r28237-02",
+   "r28237-05",
+   "r28237-03",
+   "r28237-01",
+   "r28237-04",
+   "r28237-06"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-08-19",
+  "distanceKm": 31.4,
+  "cars": 38,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-36110-g2",
+  "title": "세종 노을까지",
+  "regionId": "36110",
+  "spotIds": [
+   "r36110-01",
+   "r36110-02",
+   "r36110-03"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-08-19",
+  "distanceKm": 52.7,
+  "cars": 38,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47280-g1",
+  "title": "비 오는 날 문경",
+  "regionId": "47280",
+  "spotIds": [
+   "r47280-02",
+   "r47280-03",
+   "r47280-01"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-03-13",
+  "distanceKm": 58.0,
+  "cars": 38,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48220-g3",
+  "title": "비 오는 날 통영 4",
+  "regionId": "48220",
+  "spotIds": [
+   "ty-05",
+   "ty-01",
+   "ty-03",
+   "ty-02",
+   "ty-04"
+  ],
+  "by": "섬돌이",
+  "date": "2026-05-22",
+  "distanceKm": 37.6,
+  "cars": 38,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51720-g1",
+  "title": "홍천 전기차로 한 바퀴",
+  "regionId": "51720",
+  "spotIds": [
+   "r51720-02",
+   "r51720-01",
+   "r51720-06",
+   "r51720-04",
+   "r51720-03"
+  ],
+  "by": "역사덕후",
+  "date": "2026-08-14",
+  "distanceKm": 131.7,
+  "cars": 38,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11410-g1",
+  "title": "서대문구 숨은 곳만",
+  "regionId": "11410",
+  "spotIds": [
+   "r11410-03",
+   "r11410-04",
+   "r11410-02",
+   "r11410-05",
+   "r11410-01"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-03-23",
+  "distanceKm": 31.5,
+  "cars": 36,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26110-g1",
+  "title": "아이랑 중구",
+  "regionId": "26110",
+  "spotIds": [
+   "r26110-01",
+   "r26110-02",
+   "r26110-06",
+   "r26110-05",
+   "r26110-03"
+  ],
+  "by": "산길만골라",
+  "date": "2026-08-01",
+  "distanceKm": 10.5,
+  "cars": 36,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26470-g3",
+  "title": "비 오는 날 연제구 4",
+  "regionId": "26470",
+  "spotIds": [
+   "r26470-01",
+   "r26470-03",
+   "r26470-02",
+   "r26470-04"
+  ],
+  "by": "강아지랑차박",
+  "date": "2026-04-18",
+  "distanceKm": 38.0,
+  "cars": 36,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-30170-g0",
+  "title": "서구 점심 전에 끝",
+  "regionId": "30170",
+  "spotIds": [
+   "r30170-03",
+   "r30170-05",
+   "r30170-06",
+   "r30170-04",
+   "r30170-01",
+   "r30170-02"
+  ],
+  "by": "코나로전국",
+  "date": "2026-07-21",
+  "distanceKm": 55.9,
+  "cars": 36,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47190-g3",
+  "title": "구미 반나절 드라이브",
+  "regionId": "47190",
+  "spotIds": [
+   "r47190-02",
+   "r47190-05",
+   "r47190-04",
+   "r47190-01",
+   "r47190-03"
+  ],
+  "by": "커피로드",
+  "date": "2026-09-03",
+  "distanceKm": 100.2,
+  "cars": 36,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48890-g0",
+  "title": "합천 반나절 드라이브",
+  "regionId": "48890",
+  "spotIds": [
+   "r48890-03",
+   "r48890-02",
+   "r48890-01",
+   "r48890-04"
+  ],
+  "by": "동해안러버",
+  "date": "2026-05-08",
+  "distanceKm": 74.7,
+  "cars": 36,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26290-g2",
+  "title": "남구 주말 한 바퀴",
+  "regionId": "26290",
+  "spotIds": [
+   "r26290-01",
+   "r26290-06",
+   "r26290-02",
+   "r26290-05",
+   "r26290-04",
+   "r26290-03"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-08-04",
+  "distanceKm": 26.6,
+  "cars": 35,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27230-g3",
+  "title": "북구 반나절 드라이브 4",
+  "regionId": "27230",
+  "spotIds": [
+   "r27230-02",
+   "r27230-01",
+   "r27230-03"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-09-03",
+  "distanceKm": 27.8,
+  "cars": 35,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41480-g0",
+  "title": "파주 반나절 드라이브",
+  "regionId": "41480",
+  "spotIds": [
+   "r41480-02",
+   "r41480-03",
+   "r41480-06",
+   "r41480-01"
+  ],
+  "by": "아이오닉타고",
+  "date": "2026-09-26",
+  "distanceKm": 64.5,
+  "cars": 35,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47820-g3",
+  "title": "아이랑 청도",
+  "regionId": "47820",
+  "spotIds": [
+   "r47820-03",
+   "r47820-06",
+   "r47820-04",
+   "r47820-01",
+   "r47820-02"
+  ],
+  "by": "강아지랑차박",
+  "date": "2026-06-12",
+  "distanceKm": 46.9,
+  "cars": 35,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12300-g1",
+  "title": "북구 대표만 콕",
+  "regionId": "12300",
+  "spotIds": [
+   "r12300-03",
+   "r12300-02",
+   "r12300-01",
+   "r12300-04",
+   "r12300-05"
+  ],
+  "by": "포터로캠핑",
+  "date": "2026-05-28",
+  "distanceKm": 35.5,
+  "cars": 34,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-31200-g0",
+  "title": "북구 대표만 콕",
+  "regionId": "31200",
+  "spotIds": [
+   "r31200-03",
+   "r31200-01",
+   "r31200-02",
+   "r31200-06",
+   "r31200-05"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-08-09",
+  "distanceKm": 47.6,
+  "cars": 34,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48890-g1",
+  "title": "합천 사진 찍기 좋은 순서",
+  "regionId": "48890",
+  "spotIds": [
+   "r48890-01",
+   "r48890-04",
+   "r48890-06",
+   "r48890-05",
+   "r48890-03",
+   "r48890-02"
+  ],
+  "by": "캠핑의자둘",
+  "date": "2026-09-01",
+  "distanceKm": 113.9,
+  "cars": 34,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12860-g0",
+  "title": "진도 둘이서 천천히",
+  "regionId": "12860",
+  "spotIds": [
+   "r12860-03",
+   "r12860-01",
+   "r12860-02",
+   "r12860-05",
+   "r12860-04",
+   "r12860-06"
+  ],
+  "by": "바다만골라",
+  "date": "2026-07-22",
+  "distanceKm": 86.3,
+  "cars": 33,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51770-g0",
+  "title": "정선 하루 코스",
+  "regionId": "51770",
+  "spotIds": [
+   "r51770-03",
+   "r51770-01",
+   "r51770-02",
+   "r51770-06",
+   "r51770-05"
+  ],
+  "by": "혼자드라이브",
+  "date": "2026-07-03",
+  "distanceKm": 84.4,
+  "cars": 33,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11620-g3",
+  "title": "관악구 대표만 콕",
+  "regionId": "11620",
+  "spotIds": [
+   "r11620-02",
+   "r11620-03",
+   "r11620-01"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-10-24",
+  "distanceKm": 25.1,
+  "cars": 32,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11740-g0",
+  "title": "강동구 주말 한 바퀴",
+  "regionId": "11740",
+  "spotIds": [
+   "r11740-01",
+   "r11740-06",
+   "r11740-03",
+   "r11740-02"
+  ],
+  "by": "역사덕후",
+  "date": "2026-04-28",
+  "distanceKm": 25.2,
+  "cars": 32,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12130-g0",
+  "title": "여수 사진 찍기 좋은 순서",
+  "regionId": "12130",
+  "spotIds": [
+   "ys-05",
+   "ys-03",
+   "ys-01",
+   "ys-04",
+   "ys-06",
+   "ys-02"
+  ],
+  "by": "산길만골라",
+  "date": "2026-07-09",
+  "distanceKm": 60.9,
+  "cars": 32,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26530-g2",
+  "title": "사상구 1박2일 알차게",
+  "regionId": "26530",
+  "spotIds": [
+   "r26530-01",
+   "r26530-02",
+   "r26530-03"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-10-27",
+  "distanceKm": 29.2,
+  "cars": 32,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41280-g2",
+  "title": "고양 처음이라면",
+  "regionId": "41280",
+  "spotIds": [
+   "r41280-01",
+   "r41280-03",
+   "r41280-02",
+   "r41280-06",
+   "r41280-04",
+   "r41280-05"
+  ],
+  "by": "지도칠하는중",
+  "date": "2026-07-08",
+  "distanceKm": 59.4,
+  "cars": 32,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11305-g2",
+  "title": "강북구 점심 전에 끝",
+  "regionId": "11305",
+  "spotIds": [
+   "r11305-02",
+   "r11305-01",
+   "r11305-03",
+   "r11305-04"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-05-13",
+  "distanceKm": 108.8,
+  "cars": 31,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26350-g0",
+  "title": "비 오는 날 해운대구",
+  "regionId": "26350",
+  "spotIds": [
+   "r26350-01",
+   "r26350-02",
+   "r26350-03",
+   "r26350-04",
+   "r26350-05"
+  ],
+  "by": "코나로전국",
+  "date": "2026-06-11",
+  "distanceKm": 31.1,
+  "cars": 31,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41370-g3",
+  "title": "아이랑 오산",
+  "regionId": "41370",
+  "spotIds": [
+   "r41370-01",
+   "r41370-06",
+   "r41370-02",
+   "r41370-03"
+  ],
+  "by": "코나로전국",
+  "date": "2026-06-18",
+  "distanceKm": 34.4,
+  "cars": 31,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12150-g2",
+  "title": "순천 둘이서 천천히",
+  "regionId": "12150",
+  "spotIds": [
+   "r12150-03",
+   "r12150-06",
+   "r12150-02",
+   "r12150-01",
+   "r12150-04",
+   "r12150-05"
+  ],
+  "by": "캠핑의자둘",
+  "date": "2026-07-07",
+  "distanceKm": 64.0,
+  "cars": 30,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12240-g2",
+  "title": "서구 둘이서 천천히",
+  "regionId": "12240",
+  "spotIds": [
+   "r12240-03",
+   "r12240-04",
+   "r12240-05",
+   "r12240-01",
+   "r12240-02"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-09-06",
+  "distanceKm": 28.5,
+  "cars": 30,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12780-g1",
+  "title": "강진 노을까지",
+  "regionId": "12780",
+  "spotIds": [
+   "r12780-03",
+   "r12780-01",
+   "r12780-02",
+   "r12780-04",
+   "r12780-05"
+  ],
+  "by": "아이오닉타고",
+  "date": "2026-09-24",
+  "distanceKm": 84.7,
+  "cars": 30,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26110-g3",
+  "title": "중구 주말 한 바퀴",
+  "regionId": "26110",
+  "spotIds": [
+   "r26110-01",
+   "r26110-02",
+   "r26110-03",
+   "r26110-05"
+  ],
+  "by": "노을수집가",
+  "date": "2026-05-28",
+  "distanceKm": 18.1,
+  "cars": 30,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-30170-g3",
+  "title": "서구 대표만 콕",
+  "regionId": "30170",
+  "spotIds": [
+   "r30170-03",
+   "r30170-05",
+   "r30170-06",
+   "r30170-01",
+   "r30170-02"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-09-10",
+  "distanceKm": 36.1,
+  "cars": 30,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41130-g3",
+  "title": "성남 하루 코스",
+  "regionId": "41130",
+  "spotIds": [
+   "r41130-03",
+   "r41130-01",
+   "r41130-04",
+   "r41130-02",
+   "r41130-05"
+  ],
+  "by": "EV초보",
+  "date": "2026-09-04",
+  "distanceKm": 54.7,
+  "cars": 30,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41250-g0",
+  "title": "동두천 주말 한 바퀴",
+  "regionId": "41250",
+  "spotIds": [
+   "r41250-02",
+   "r41250-03",
+   "r41250-04",
+   "r41250-01"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-03-11",
+  "distanceKm": 26.5,
+  "cars": 30,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43745-g1",
+  "title": "비 오는 날 증평",
+  "regionId": "43745",
+  "spotIds": [
+   "r43745-01",
+   "r43745-04",
+   "r43745-02",
+   "r43745-03",
+   "r43745-06"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-10-10",
+  "distanceKm": 60.8,
+  "cars": 30,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47900-g2",
+  "title": "예천 대표만 콕",
+  "regionId": "47900",
+  "spotIds": [
+   "r47900-02",
+   "r47900-01",
+   "r47900-03"
+  ],
+  "by": "EV초보",
+  "date": "2026-05-10",
+  "distanceKm": 37.7,
+  "cars": 30,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51190-g0",
+  "title": "태백 둘이서 천천히",
+  "regionId": "51190",
+  "spotIds": [
+   "r51190-02",
+   "r51190-05",
+   "r51190-01",
+   "r51190-03"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-07-28",
+  "distanceKm": 36.6,
+  "cars": 30,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51810-g2",
+  "title": "인제 둘이서 천천히",
+  "regionId": "51810",
+  "spotIds": [
+   "r51810-01",
+   "r51810-02",
+   "r51810-03",
+   "r51810-06"
+  ],
+  "by": "바다만골라",
+  "date": "2026-04-17",
+  "distanceKm": 111.1,
+  "cars": 30,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11410-g0",
+  "title": "서대문구 점심 전에 끝",
+  "regionId": "11410",
+  "spotIds": [
+   "r11410-01",
+   "r11410-03",
+   "r11410-04",
+   "r11410-06",
+   "r11410-02",
+   "r11410-05"
+  ],
+  "by": "코나로전국",
+  "date": "2026-07-24",
+  "distanceKm": 22.8,
+  "cars": 29,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12240-g0",
+  "title": "서구 하루 코스",
+  "regionId": "12240",
+  "spotIds": [
+   "r12240-02",
+   "r12240-05",
+   "r12240-01",
+   "r12240-04",
+   "r12240-03"
+  ],
+  "by": "혼자드라이브",
+  "date": "2026-03-11",
+  "distanceKm": 35.1,
+  "cars": 29,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26170-g2",
+  "title": "부모님 모시고 동구",
+  "regionId": "26170",
+  "spotIds": [
+   "r26170-01",
+   "r26170-03",
+   "r26170-06",
+   "r26170-05",
+   "r26170-04",
+   "r26170-02"
+  ],
+  "by": "커피로드",
+  "date": "2026-06-17",
+  "distanceKm": 36.8,
+  "cars": 29,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27230-g2",
+  "title": "비 오는 날 북구",
+  "regionId": "27230",
+  "spotIds": [
+   "r27230-01",
+   "r27230-03",
+   "r27230-06",
+   "r27230-05",
+   "r27230-02"
+  ],
+  "by": "동해안러버",
+  "date": "2026-04-15",
+  "distanceKm": 19.5,
+  "cars": 29,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41590-g3",
+  "title": "부모님 모시고 화성",
+  "regionId": "41590",
+  "spotIds": [
+   "r41590-01",
+   "r41590-05",
+   "r41590-03",
+   "r41590-02"
+  ],
+  "by": "은퇴여행자",
+  "date": "2026-08-15",
+  "distanceKm": 75.1,
+  "cars": 29,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-31140-g2",
+  "title": "남구 하루 코스",
+  "regionId": "31140",
+  "spotIds": [
+   "r31140-01",
+   "r31140-02",
+   "r31140-03"
+  ],
+  "by": "캠핑의자둘",
+  "date": "2026-07-16",
+  "distanceKm": 35.2,
+  "cars": 28,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41310-g2",
+  "title": "구리 사진 찍기 좋은 순서",
+  "regionId": "41310",
+  "spotIds": [
+   "r41310-01",
+   "r41310-04",
+   "r41310-03",
+   "r41310-06",
+   "r41310-02",
+   "r41310-05"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-04-19",
+  "distanceKm": 40.7,
+  "cars": 28,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41670-g0",
+  "title": "아이랑 여주",
+  "regionId": "41670",
+  "spotIds": [
+   "r41670-03",
+   "r41670-05",
+   "r41670-04",
+   "r41670-02",
+   "r41670-06",
+   "r41670-01"
+  ],
+  "by": "커피로드",
+  "date": "2026-05-08",
+  "distanceKm": 68.3,
+  "cars": 28,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44250-g2",
+  "title": "비 오는 날 계룡",
+  "regionId": "44250",
+  "spotIds": [
+   "r44250-03",
+   "r44250-06",
+   "r44250-05",
+   "r44250-01",
+   "r44250-02"
+  ],
+  "by": "은퇴여행자",
+  "date": "2026-06-05",
+  "distanceKm": 42.3,
+  "cars": 28,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44250-g4",
+  "title": "비 오는 날 계룡 5",
+  "regionId": "44250",
+  "spotIds": [
+   "r44250-06",
+   "r44250-04",
+   "r44250-05",
+   "r44250-02"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-06-08",
+  "distanceKm": 28.6,
+  "cars": 28,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47130-g0",
+  "title": "부모님 모시고 경주",
+  "regionId": "47130",
+  "spotIds": [
+   "gj-03",
+   "gj-05",
+   "gj-04",
+   "gj-01",
+   "gj-02",
+   "gj-08"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-08-02",
+  "distanceKm": 61.8,
+  "cars": 28,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47730-g1",
+  "title": "비 오는 날 의성",
+  "regionId": "47730",
+  "spotIds": [
+   "r47730-01",
+   "r47730-03",
+   "r47730-04",
+   "r47730-02"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-05-17",
+  "distanceKm": 103.4,
+  "cars": 28,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51750-g2",
+  "title": "영월 사진 찍기 좋은 순서",
+  "regionId": "51750",
+  "spotIds": [
+   "r51750-02",
+   "r51750-01",
+   "r51750-03",
+   "r51750-05",
+   "r51750-04"
+  ],
+  "by": "은퇴여행자",
+  "date": "2026-10-21",
+  "distanceKm": 65.5,
+  "cars": 28,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11170-g0",
+  "title": "용산구 대표만 콕",
+  "regionId": "11170",
+  "spotIds": [
+   "r11170-01",
+   "r11170-02",
+   "r11170-06",
+   "r11170-03"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-10-07",
+  "distanceKm": 32.5,
+  "cars": 27,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11530-g3",
+  "title": "구로구 대표만 콕",
+  "regionId": "11530",
+  "spotIds": [
+   "r11530-01",
+   "r11530-06",
+   "r11530-04",
+   "r11530-03",
+   "r11530-02"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-07-01",
+  "distanceKm": 29.7,
+  "cars": 27,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11620-g1",
+  "title": "비 오는 날 관악구",
+  "regionId": "11620",
+  "spotIds": [
+   "r11620-02",
+   "r11620-03",
+   "r11620-01",
+   "r11620-04",
+   "r11620-06"
+  ],
+  "by": "노을수집가",
+  "date": "2026-10-22",
+  "distanceKm": 36.9,
+  "cars": 27,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27110-g1",
+  "title": "부모님 모시고 중구",
+  "regionId": "27110",
+  "spotIds": [
+   "r27110-02",
+   "r27110-04",
+   "r27110-03",
+   "r27110-05",
+   "r27110-01",
+   "r27110-06"
+  ],
+  "by": "노을수집가",
+  "date": "2026-08-19",
+  "distanceKm": 34.5,
+  "cars": 27,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43150-g2",
+  "title": "제천 둘이서 천천히",
+  "regionId": "43150",
+  "spotIds": [
+   "r43150-01",
+   "r43150-02",
+   "r43150-04",
+   "r43150-03"
+  ],
+  "by": "아이5오너",
+  "date": "2026-04-04",
+  "distanceKm": 72.7,
+  "cars": 27,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44250-g3",
+  "title": "계룡 둘이서 천천히",
+  "regionId": "44250",
+  "spotIds": [
+   "r44250-02",
+   "r44250-01",
+   "r44250-03"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-04-04",
+  "distanceKm": 26.6,
+  "cars": 27,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-52110-g4",
+  "title": "전주 대표만 콕",
+  "regionId": "52110",
+  "spotIds": [
+   "jj-06",
+   "jj-01",
+   "jj-05",
+   "jj-08",
+   "jj-07",
+   "jj-03"
+  ],
+  "by": "커피로드",
+  "date": "2026-10-01",
+  "distanceKm": 27.9,
+  "cars": 27,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27290-g4",
+  "title": "비 오는 날 달서구",
+  "regionId": "27290",
+  "spotIds": [
+   "r27290-06",
+   "r27290-04",
+   "r27290-05"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-03-23",
+  "distanceKm": 35.2,
+  "cars": 26,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28275-g0",
+  "title": "서해구 1박2일 알차게",
+  "regionId": "28275",
+  "spotIds": [
+   "r28275-01",
+   "r28275-04",
+   "r28275-06",
+   "r28275-03",
+   "r28275-02",
+   "r28275-05"
+  ],
+  "by": "강아지랑차박",
+  "date": "2026-03-17",
+  "distanceKm": 31.2,
+  "cars": 26,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-30110-g1",
+  "title": "동구 사진 찍기 좋은 순서",
+  "regionId": "30110",
+  "spotIds": [
+   "r30110-03",
+   "r30110-05",
+   "r30110-02",
+   "r30110-01"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-03-28",
+  "distanceKm": 49.8,
+  "cars": 26,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41480-g2",
+  "title": "파주 숨은 곳만",
+  "regionId": "41480",
+  "spotIds": [
+   "r41480-01",
+   "r41480-05",
+   "r41480-06",
+   "r41480-03",
+   "r41480-02"
+  ],
+  "by": "동해안러버",
+  "date": "2026-04-05",
+  "distanceKm": 73.5,
+  "cars": 26,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41550-g3",
+  "title": "부모님 모시고 안성",
+  "regionId": "41550",
+  "spotIds": [
+   "r41550-03",
+   "r41550-02",
+   "r41550-01",
+   "r41550-05"
+  ],
+  "by": "섬돌이",
+  "date": "2026-03-18",
+  "distanceKm": 44.6,
+  "cars": 26,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43730-g2",
+  "title": "옥천 숨은 곳만",
+  "regionId": "43730",
+  "spotIds": [
+   "r43730-03",
+   "r43730-02",
+   "r43730-01"
+  ],
+  "by": "강아지랑차박",
+  "date": "2026-08-21",
+  "distanceKm": 61.8,
+  "cars": 26,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47900-g1",
+  "title": "예천 주말 한 바퀴",
+  "regionId": "47900",
+  "spotIds": [
+   "r47900-01",
+   "r47900-02",
+   "r47900-05",
+   "r47900-03",
+   "r47900-06"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-04-06",
+  "distanceKm": 61.3,
+  "cars": 26,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11470-g0",
+  "title": "양천구 노을까지",
+  "regionId": "11470",
+  "spotIds": [
+   "r11470-01",
+   "r11470-03",
+   "r11470-02"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-10-03",
+  "distanceKm": 22.5,
+  "cars": 25,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12130-g1",
+  "title": "여수 처음이라면",
+  "regionId": "12130",
+  "spotIds": [
+   "ys-02",
+   "ys-03",
+   "ys-01",
+   "ys-04"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-06-06",
+  "distanceKm": 45.9,
+  "cars": 25,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44210-g0",
+  "title": "서산 대표만 콕",
+  "regionId": "44210",
+  "spotIds": [
+   "r44210-03",
+   "r44210-01",
+   "r44210-02"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-08-10",
+  "distanceKm": 42.6,
+  "cars": 25,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48240-g1",
+  "title": "부모님 모시고 사천",
+  "regionId": "48240",
+  "spotIds": [
+   "r48240-03",
+   "r48240-02",
+   "r48240-04",
+   "r48240-01"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-09-27",
+  "distanceKm": 51.3,
+  "cars": 25,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51130-g3",
+  "title": "원주 주말 한 바퀴",
+  "regionId": "51130",
+  "spotIds": [
+   "r51130-01",
+   "r51130-04",
+   "r51130-02",
+   "r51130-03",
+   "r51130-06",
+   "r51130-05"
+  ],
+  "by": "섬돌이",
+  "date": "2026-03-18",
+  "distanceKm": 88.4,
+  "cars": 25,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51190-g3",
+  "title": "태백 전기차로 한 바퀴",
+  "regionId": "51190",
+  "spotIds": [
+   "r51190-01",
+   "r51190-05",
+   "r51190-06",
+   "r51190-04",
+   "r51190-03",
+   "r51190-02"
+  ],
+  "by": "동해안러버",
+  "date": "2026-08-05",
+  "distanceKm": 55.6,
+  "cars": 25,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51790-g1",
+  "title": "화천 대표만 콕",
+  "regionId": "51790",
+  "spotIds": [
+   "r51790-02",
+   "r51790-01",
+   "r51790-06",
+   "r51790-03"
+  ],
+  "by": "섬돌이",
+  "date": "2026-06-24",
+  "distanceKm": 80.7,
+  "cars": 25,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11560-g4",
+  "title": "부모님 모시고 영등포구",
+  "regionId": "11560",
+  "spotIds": [
+   "r11560-04",
+   "r11560-01",
+   "r11560-05",
+   "r11560-06",
+   "r11560-02"
+  ],
+  "by": "동해안러버",
+  "date": "2026-08-22",
+  "distanceKm": 13.6,
+  "cars": 24,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12780-g0",
+  "title": "강진 대표만 콕",
+  "regionId": "12780",
+  "spotIds": [
+   "r12780-03",
+   "r12780-01",
+   "r12780-02"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-07-11",
+  "distanceKm": 37.1,
+  "cars": 24,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12840-g0",
+  "title": "장성 전기차로 한 바퀴",
+  "regionId": "12840",
+  "spotIds": [
+   "r12840-01",
+   "r12840-04",
+   "r12840-03",
+   "r12840-02"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-06-12",
+  "distanceKm": 55.6,
+  "cars": 24,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44180-g3",
+  "title": "보령 1박2일 알차게",
+  "regionId": "44180",
+  "spotIds": [
+   "r44180-03",
+   "r44180-02",
+   "r44180-04",
+   "r44180-01"
+  ],
+  "by": "코나로전국",
+  "date": "2026-08-01",
+  "distanceKm": 66.6,
+  "cars": 24,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47280-g0",
+  "title": "문경 반나절 드라이브",
+  "regionId": "47280",
+  "spotIds": [
+   "r47280-01",
+   "r47280-02",
+   "r47280-03"
+  ],
+  "by": "캠핑의자둘",
+  "date": "2026-08-07",
+  "distanceKm": 47.9,
+  "cars": 24,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47840-g1",
+  "title": "성주 주말 한 바퀴",
+  "regionId": "47840",
+  "spotIds": [
+   "r47840-02",
+   "r47840-03",
+   "r47840-01"
+  ],
+  "by": "캠핑의자둘",
+  "date": "2026-06-11",
+  "distanceKm": 42.4,
+  "cars": 24,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11215-g1",
+  "title": "광진구 1박2일 알차게",
+  "regionId": "11215",
+  "spotIds": [
+   "r11215-02",
+   "r11215-01",
+   "r11215-03",
+   "r11215-06"
+  ],
+  "by": "은퇴여행자",
+  "date": "2026-08-03",
+  "distanceKm": 36.8,
+  "cars": 23,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11350-g2",
+  "title": "노원구 반나절 드라이브",
+  "regionId": "11350",
+  "spotIds": [
+   "r11350-03",
+   "r11350-05",
+   "r11350-01",
+   "r11350-06",
+   "r11350-02",
+   "r11350-04"
+  ],
+  "by": "신혼여행중",
+  "date": "2026-05-22",
+  "distanceKm": 27.6,
+  "cars": 23,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12150-g1",
+  "title": "순천 노을까지",
+  "regionId": "12150",
+  "spotIds": [
+   "r12150-03",
+   "r12150-06",
+   "r12150-02",
+   "r12150-01",
+   "r12150-04",
+   "r12150-05"
+  ],
+  "by": "섬돌이",
+  "date": "2026-05-03",
+  "distanceKm": 70.6,
+  "cars": 23,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12720-g1",
+  "title": "곡성 하루 코스",
+  "regionId": "12720",
+  "spotIds": [
+   "r12720-02",
+   "r12720-01",
+   "r12720-03"
+  ],
+  "by": "산길만골라",
+  "date": "2026-04-26",
+  "distanceKm": 18.5,
+  "cars": 23,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12820-g2",
+  "title": "부모님 모시고 함평 3",
+  "regionId": "12820",
+  "spotIds": [
+   "r12820-02",
+   "r12820-04",
+   "r12820-03",
+   "r12820-05",
+   "r12820-01",
+   "r12820-06"
+  ],
+  "by": "역사덕후",
+  "date": "2026-04-20",
+  "distanceKm": 54.7,
+  "cars": 23,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41590-g4",
+  "title": "부모님 모시고 화성 5",
+  "regionId": "41590",
+  "spotIds": [
+   "r41590-06",
+   "r41590-03",
+   "r41590-01",
+   "r41590-04",
+   "r41590-05"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-03-04",
+  "distanceKm": 46.0,
+  "cars": 23,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48730-g1",
+  "title": "함안 1박2일 알차게",
+  "regionId": "48730",
+  "spotIds": [
+   "r48730-01",
+   "r48730-03",
+   "r48730-04",
+   "r48730-02"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-10-21",
+  "distanceKm": 46.0,
+  "cars": 23,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51720-g4",
+  "title": "아이랑 홍천",
+  "regionId": "51720",
+  "spotIds": [
+   "r51720-05",
+   "r51720-06",
+   "r51720-04",
+   "r51720-01"
+  ],
+  "by": "혼자드라이브",
+  "date": "2026-10-18",
+  "distanceKm": 112.5,
+  "cars": 23,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12710-g3",
+  "title": "담양 하루 코스 4",
+  "regionId": "12710",
+  "spotIds": [
+   "dm-05",
+   "dm-03",
+   "dm-02",
+   "dm-04",
+   "dm-01"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-05-28",
+  "distanceKm": 2657.3,
+  "cars": 22,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-31200-g1",
+  "title": "북구 처음이라면",
+  "regionId": "31200",
+  "spotIds": [
+   "r31200-02",
+   "r31200-01",
+   "r31200-03",
+   "r31200-06"
+  ],
+  "by": "노을수집가",
+  "date": "2026-03-09",
+  "distanceKm": 43.9,
+  "cars": 22,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41250-g1",
+  "title": "비 오는 날 동두천",
+  "regionId": "41250",
+  "spotIds": [
+   "r41250-02",
+   "r41250-03",
+   "r41250-01"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-05-12",
+  "distanceKm": 18.0,
+  "cars": 22,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41630-g1",
+  "title": "양주 처음이라면",
+  "regionId": "41630",
+  "spotIds": [
+   "r41630-03",
+   "r41630-01",
+   "r41630-02"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-10-28",
+  "distanceKm": 40.8,
+  "cars": 22,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44210-g2",
+  "title": "서산 주말 한 바퀴",
+  "regionId": "44210",
+  "spotIds": [
+   "r44210-02",
+   "r44210-01",
+   "r44210-06",
+   "r44210-03",
+   "r44210-04"
+  ],
+  "by": "산길만골라",
+  "date": "2026-06-25",
+  "distanceKm": 61.7,
+  "cars": 22,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44800-g0",
+  "title": "홍성 반나절 드라이브",
+  "regionId": "44800",
+  "spotIds": [
+   "r44800-01",
+   "r44800-03",
+   "r44800-02",
+   "r44800-04"
+  ],
+  "by": "노을수집가",
+  "date": "2026-09-06",
+  "distanceKm": 41.7,
+  "cars": 22,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11110-g2",
+  "title": "종로구 노을까지",
+  "regionId": "11110",
+  "spotIds": [
+   "r11110-03",
+   "r11110-02",
+   "r11110-01"
+  ],
+  "by": "동해안러버",
+  "date": "2026-08-15",
+  "distanceKm": 18.1,
+  "cars": 21,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11215-g2",
+  "title": "광진구 전기차로 한 바퀴",
+  "regionId": "11215",
+  "spotIds": [
+   "r11215-01",
+   "r11215-04",
+   "r11215-02",
+   "r11215-03",
+   "r11215-06"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-03-27",
+  "distanceKm": 33.2,
+  "cars": 21,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12300-g0",
+  "title": "북구 숨은 곳만",
+  "regionId": "12300",
+  "spotIds": [
+   "r12300-01",
+   "r12300-02",
+   "r12300-03",
+   "r12300-05"
+  ],
+  "by": "포터로캠핑",
+  "date": "2026-03-10",
+  "distanceKm": 37.0,
+  "cars": 21,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12760-g0",
+  "title": "화순 반나절 드라이브",
+  "regionId": "12760",
+  "spotIds": [
+   "r12760-03",
+   "r12760-06",
+   "r12760-04",
+   "r12760-02",
+   "r12760-01",
+   "r12760-05"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-08-20",
+  "distanceKm": 117.6,
+  "cars": 21,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27110-g0",
+  "title": "중구 대표만 콕",
+  "regionId": "27110",
+  "spotIds": [
+   "r27110-03",
+   "r27110-02",
+   "r27110-01"
+  ],
+  "by": "동해안러버",
+  "date": "2026-05-15",
+  "distanceKm": 11.8,
+  "cars": 21,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47130-g2",
+  "title": "경주 주말 한 바퀴",
+  "regionId": "47130",
+  "spotIds": [
+   "gj-05",
+   "gj-01",
+   "gj-02"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-04-10",
+  "distanceKm": 34.9,
+  "cars": 21,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47930-g4",
+  "title": "울진 전기차로 한 바퀴 5",
+  "regionId": "47930",
+  "spotIds": [
+   "r47930-05",
+   "r47930-03",
+   "r47930-02",
+   "r47930-01",
+   "r47930-04",
+   "r47930-06"
+  ],
+  "by": "EV초보",
+  "date": "2026-04-19",
+  "distanceKm": 107.4,
+  "cars": 21,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48240-g0",
+  "title": "아이랑 사천",
+  "regionId": "48240",
+  "spotIds": [
+   "r48240-01",
+   "r48240-03",
+   "r48240-02"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-07-11",
+  "distanceKm": 20.9,
+  "cars": 21,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48870-g0",
+  "title": "비 오는 날 함양",
+  "regionId": "48870",
+  "spotIds": [
+   "r48870-03",
+   "r48870-01",
+   "r48870-06",
+   "r48870-05",
+   "r48870-02"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-05-11",
+  "distanceKm": 81.9,
+  "cars": 21,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-52110-g0",
+  "title": "전주 전기차로 한 바퀴",
+  "regionId": "52110",
+  "spotIds": [
+   "jj-04",
+   "jj-05",
+   "jj-01",
+   "jj-03"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-04-23",
+  "distanceKm": 25.5,
+  "cars": 21,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26290-g3",
+  "title": "남구 숨은 곳만",
+  "regionId": "26290",
+  "spotIds": [
+   "r26290-03",
+   "r26290-01",
+   "r26290-06",
+   "r26290-02"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-10-04",
+  "distanceKm": 28.2,
+  "cars": 20,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28710-g3",
+  "title": "강화 점심 전에 끝",
+  "regionId": "28710",
+  "spotIds": [
+   "r28710-01",
+   "r28710-02",
+   "r28710-03",
+   "r28710-05",
+   "r28710-04"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-06-20",
+  "distanceKm": 48.4,
+  "cars": 20,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41130-g2",
+  "title": "성남 둘이서 천천히",
+  "regionId": "41130",
+  "spotIds": [
+   "r41130-03",
+   "r41130-06",
+   "r41130-05",
+   "r41130-01",
+   "r41130-04",
+   "r41130-02"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-06-15",
+  "distanceKm": 43.0,
+  "cars": 20,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41450-g0",
+  "title": "비 오는 날 하남",
+  "regionId": "41450",
+  "spotIds": [
+   "r41450-02",
+   "r41450-03",
+   "r41450-01",
+   "r41450-04",
+   "r41450-06",
+   "r41450-05"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-10-16",
+  "distanceKm": 30.9,
+  "cars": 20,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47110-g1",
+  "title": "포항 처음이라면",
+  "regionId": "47110",
+  "spotIds": [
+   "r47110-01",
+   "r47110-04",
+   "r47110-03",
+   "r47110-02",
+   "r47110-05"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-07-20",
+  "distanceKm": 131.7,
+  "cars": 20,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47130-g1",
+  "title": "경주 사진 찍기 좋은 순서",
+  "regionId": "47130",
+  "spotIds": [
+   "gj-04",
+   "gj-03",
+   "gj-05",
+   "gj-01",
+   "gj-02",
+   "gj-08"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-04-13",
+  "distanceKm": 47.4,
+  "cars": 20,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48270-g3",
+  "title": "밀양 사진 찍기 좋은 순서",
+  "regionId": "48270",
+  "spotIds": [
+   "r48270-02",
+   "r48270-03",
+   "r48270-01"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-10-08",
+  "distanceKm": 61.2,
+  "cars": 20,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-52110-g1",
+  "title": "전주 사진 찍기 좋은 순서",
+  "regionId": "52110",
+  "spotIds": [
+   "jj-02",
+   "jj-04",
+   "jj-05"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-05-09",
+  "distanceKm": 14.7,
+  "cars": 20,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11410-g4",
+  "title": "서대문구 하루 코스",
+  "regionId": "11410",
+  "spotIds": [
+   "r11410-04",
+   "r11410-06",
+   "r11410-05"
+  ],
+  "by": "코나로전국",
+  "date": "2026-09-19",
+  "distanceKm": 29.1,
+  "cars": 19,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12710-g1",
+  "title": "담양 사진 찍기 좋은 순서",
+  "regionId": "12710",
+  "spotIds": [
+   "dm-04",
+   "dm-01",
+   "dm-03",
+   "dm-05"
+  ],
+  "by": "아이5오너",
+  "date": "2026-09-25",
+  "distanceKm": 2652.3,
+  "cars": 19,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26110-g0",
+  "title": "중구 대표만 콕",
+  "regionId": "26110",
+  "spotIds": [
+   "r26110-01",
+   "r26110-02",
+   "r26110-06",
+   "r26110-05",
+   "r26110-04",
+   "r26110-03"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-06-12",
+  "distanceKm": 26.8,
+  "cars": 19,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26290-g1",
+  "title": "비 오는 날 남구",
+  "regionId": "26290",
+  "spotIds": [
+   "r26290-03",
+   "r26290-01",
+   "r26290-02"
+  ],
+  "by": "포터로캠핑",
+  "date": "2026-06-18",
+  "distanceKm": 24.3,
+  "cars": 19,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26410-g2",
+  "title": "비 오는 날 금정구",
+  "regionId": "26410",
+  "spotIds": [
+   "r26410-01",
+   "r26410-02",
+   "r26410-03",
+   "r26410-05"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-07-07",
+  "distanceKm": 32.4,
+  "cars": 19,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27170-g2",
+  "title": "서구 처음이라면",
+  "regionId": "27170",
+  "spotIds": [
+   "r27170-02",
+   "r27170-01",
+   "r27170-03"
+  ],
+  "by": "섬돌이",
+  "date": "2026-07-22",
+  "distanceKm": 20.3,
+  "cars": 19,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44710-g1",
+  "title": "금산 전기차로 한 바퀴",
+  "regionId": "44710",
+  "spotIds": [
+   "r44710-01",
+   "r44710-03",
+   "r44710-02"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-06-02",
+  "distanceKm": 41.8,
+  "cars": 19,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48330-g1",
+  "title": "아이랑 양산",
+  "regionId": "48330",
+  "spotIds": [
+   "r48330-03",
+   "r48330-02",
+   "r48330-01"
+  ],
+  "by": "신혼여행중",
+  "date": "2026-04-24",
+  "distanceKm": 56.0,
+  "cars": 19,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51770-g1",
+  "title": "정선 숨은 곳만",
+  "regionId": "51770",
+  "spotIds": [
+   "r51770-02",
+   "r51770-01",
+   "r51770-03",
+   "r51770-04",
+   "r51770-05"
+  ],
+  "by": "섬돌이",
+  "date": "2026-03-08",
+  "distanceKm": 134.7,
+  "cars": 19,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11110-g0",
+  "title": "종로구 둘이서 천천히",
+  "regionId": "11110",
+  "spotIds": [
+   "r11110-02",
+   "r11110-03",
+   "r11110-06",
+   "r11110-04",
+   "r11110-01"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-06-03",
+  "distanceKm": 31.6,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11215-g0",
+  "title": "광진구 노을까지",
+  "regionId": "11215",
+  "spotIds": [
+   "r11215-03",
+   "r11215-01",
+   "r11215-02"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-09-24",
+  "distanceKm": 27.6,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11350-g4",
+  "title": "비 오는 날 노원구",
+  "regionId": "11350",
+  "spotIds": [
+   "r11350-06",
+   "r11350-02",
+   "r11350-04",
+   "r11350-05",
+   "r11350-03",
+   "r11350-01"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-03-23",
+  "distanceKm": 24.7,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12710-g0",
+  "title": "담양 하루 코스",
+  "regionId": "12710",
+  "spotIds": [
+   "dm-05",
+   "dm-07",
+   "dm-03",
+   "dm-02",
+   "dm-04",
+   "dm-01"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-03-18",
+  "distanceKm": 2655.1,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12860-g3",
+  "title": "아이랑 진도",
+  "regionId": "12860",
+  "spotIds": [
+   "r12860-03",
+   "r12860-01",
+   "r12860-02",
+   "r12860-05",
+   "r12860-04",
+   "r12860-06"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-03-13",
+  "distanceKm": 76.0,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27170-g1",
+  "title": "서구 하루 코스",
+  "regionId": "27170",
+  "spotIds": [
+   "r27170-02",
+   "r27170-05",
+   "r27170-03",
+   "r27170-01",
+   "r27170-06",
+   "r27170-04"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-08-13",
+  "distanceKm": 33.3,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27720-g0",
+  "title": "군위 둘이서 천천히",
+  "regionId": "27720",
+  "spotIds": [
+   "r27720-02",
+   "r27720-01",
+   "r27720-03"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-04-07",
+  "distanceKm": 47.1,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28155-g1",
+  "title": "비 오는 날 영종구",
+  "regionId": "28155",
+  "spotIds": [
+   "r28155-02",
+   "r28155-03",
+   "r28155-01"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-10-06",
+  "distanceKm": 28.2,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28185-g1",
+  "title": "아이랑 연수구",
+  "regionId": "28185",
+  "spotIds": [
+   "r28185-01",
+   "r28185-02",
+   "r28185-05",
+   "r28185-06",
+   "r28185-03"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-10-15",
+  "distanceKm": 23.7,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28710-g1",
+  "title": "강화 처음이라면",
+  "regionId": "28710",
+  "spotIds": [
+   "r28710-01",
+   "r28710-02",
+   "r28710-03",
+   "r28710-06"
+  ],
+  "by": "코나로전국",
+  "date": "2026-09-16",
+  "distanceKm": 53.5,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-30230-g3",
+  "title": "대덕구 반나절 드라이브",
+  "regionId": "30230",
+  "spotIds": [
+   "r30230-01",
+   "r30230-04",
+   "r30230-03",
+   "r30230-06",
+   "r30230-02"
+  ],
+  "by": "산길만골라",
+  "date": "2026-09-12",
+  "distanceKm": 30.6,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41370-g0",
+  "title": "오산 1박2일 알차게",
+  "regionId": "41370",
+  "spotIds": [
+   "r41370-01",
+   "r41370-02",
+   "r41370-03"
+  ],
+  "by": "코나로전국",
+  "date": "2026-06-05",
+  "distanceKm": 16.1,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41820-g3",
+  "title": "가평 주말 한 바퀴",
+  "regionId": "41820",
+  "spotIds": [
+   "gp-04",
+   "gp-02",
+   "gp-05"
+  ],
+  "by": "역사덕후",
+  "date": "2026-05-09",
+  "distanceKm": 59.5,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43800-g0",
+  "title": "단양 반나절 드라이브",
+  "regionId": "43800",
+  "spotIds": [
+   "dy-03",
+   "dy-02",
+   "dy-01",
+   "dy-05",
+   "dy-04"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-06-14",
+  "distanceKm": 69.2,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43800-g1",
+  "title": "단양 둘이서 천천히",
+  "regionId": "43800",
+  "spotIds": [
+   "dy-03",
+   "dy-01",
+   "dy-05"
+  ],
+  "by": "신혼여행중",
+  "date": "2026-07-05",
+  "distanceKm": 52.7,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48850-g0",
+  "title": "하동 1박2일 알차게",
+  "regionId": "48850",
+  "spotIds": [
+   "r48850-03",
+   "r48850-01",
+   "r48850-02"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-09-13",
+  "distanceKm": 56.2,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51210-g0",
+  "title": "속초 주말 한 바퀴",
+  "regionId": "51210",
+  "spotIds": [
+   "sc-04",
+   "sc-05",
+   "sc-03",
+   "sc-02",
+   "sc-01"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-10-04",
+  "distanceKm": 38.6,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51720-g3",
+  "title": "홍천 점심 전에 끝",
+  "regionId": "51720",
+  "spotIds": [
+   "r51720-02",
+   "r51720-01",
+   "r51720-03"
+  ],
+  "by": "산길만골라",
+  "date": "2026-10-08",
+  "distanceKm": 101.8,
+  "cars": 18,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12300-g4",
+  "title": "부모님 모시고 북구",
+  "regionId": "12300",
+  "spotIds": [
+   "r12300-04",
+   "r12300-06",
+   "r12300-02",
+   "r12300-05"
+  ],
+  "by": "EV초보",
+  "date": "2026-03-11",
+  "distanceKm": 35.2,
+  "cars": 17,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12740-g0",
+  "title": "고흥 사진 찍기 좋은 순서",
+  "regionId": "12740",
+  "spotIds": [
+   "r12740-01",
+   "r12740-03",
+   "r12740-02",
+   "r12740-05",
+   "r12740-04",
+   "r12740-06"
+  ],
+  "by": "커피로드",
+  "date": "2026-06-28",
+  "distanceKm": 104.6,
+  "cars": 17,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12820-g3",
+  "title": "함평 점심 전에 끝",
+  "regionId": "12820",
+  "spotIds": [
+   "r12820-03",
+   "r12820-04",
+   "r12820-02",
+   "r12820-06",
+   "r12820-01",
+   "r12820-05"
+  ],
+  "by": "아이오닉타고",
+  "date": "2026-03-12",
+  "distanceKm": 61.2,
+  "cars": 17,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26410-g3",
+  "title": "금정구 노을까지",
+  "regionId": "26410",
+  "spotIds": [
+   "r26410-02",
+   "r26410-01",
+   "r26410-06",
+   "r26410-04",
+   "r26410-03",
+   "r26410-05"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-09-14",
+  "distanceKm": 30.4,
+  "cars": 17,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41280-g1",
+  "title": "고양 대표만 콕",
+  "regionId": "41280",
+  "spotIds": [
+   "r41280-01",
+   "r41280-03",
+   "r41280-02",
+   "r41280-06",
+   "r41280-05"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-09-17",
+  "distanceKm": 52.8,
+  "cars": 17,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43760-g0",
+  "title": "괴산 사진 찍기 좋은 순서",
+  "regionId": "43760",
+  "spotIds": [
+   "r43760-02",
+   "r43760-03",
+   "r43760-01",
+   "r43760-05",
+   "r43760-06"
+  ],
+  "by": "강아지랑차박",
+  "date": "2026-07-20",
+  "distanceKm": 87.8,
+  "cars": 17,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47110-g0",
+  "title": "비 오는 날 포항",
+  "regionId": "47110",
+  "spotIds": [
+   "r47110-03",
+   "r47110-06",
+   "r47110-01",
+   "r47110-02"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-07-08",
+  "distanceKm": 77.1,
+  "cars": 17,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47170-g0",
+  "title": "안동 하루 코스",
+  "regionId": "47170",
+  "spotIds": [
+   "ad-02",
+   "ad-03",
+   "ad-05",
+   "ad-04",
+   "ad-01"
+  ],
+  "by": "바다만골라",
+  "date": "2026-04-05",
+  "distanceKm": 87.8,
+  "cars": 17,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47230-g1",
+  "title": "아이랑 영천",
+  "regionId": "47230",
+  "spotIds": [
+   "r47230-03",
+   "r47230-02",
+   "r47230-06",
+   "r47230-01"
+  ],
+  "by": "커피로드",
+  "date": "2026-09-24",
+  "distanceKm": 48.5,
+  "cars": 17,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11620-g2",
+  "title": "관악구 하루 코스",
+  "regionId": "11620",
+  "spotIds": [
+   "r11620-03",
+   "r11620-02",
+   "r11620-01"
+  ],
+  "by": "지도칠하는중",
+  "date": "2026-07-16",
+  "distanceKm": 35.5,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11740-g2",
+  "title": "강동구 둘이서 천천히",
+  "regionId": "11740",
+  "spotIds": [
+   "r11740-03",
+   "r11740-02",
+   "r11740-01"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-10-10",
+  "distanceKm": 27.3,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12300-g2",
+  "title": "북구 대표만 콕 3",
+  "regionId": "12300",
+  "spotIds": [
+   "r12300-03",
+   "r12300-02",
+   "r12300-06",
+   "r12300-01",
+   "r12300-04",
+   "r12300-05"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-06-09",
+  "distanceKm": 35.4,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12740-g1",
+  "title": "고흥 처음이라면",
+  "regionId": "12740",
+  "spotIds": [
+   "r12740-02",
+   "r12740-05",
+   "r12740-03",
+   "r12740-01",
+   "r12740-06"
+  ],
+  "by": "캠핑의자둘",
+  "date": "2026-07-15",
+  "distanceKm": 76.5,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26230-g0",
+  "title": "부산진구 주말 한 바퀴",
+  "regionId": "26230",
+  "spotIds": [
+   "r26230-02",
+   "r26230-01",
+   "r26230-03",
+   "r26230-06",
+   "r26230-04"
+  ],
+  "by": "신혼여행중",
+  "date": "2026-08-05",
+  "distanceKm": 31.4,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-30170-g1",
+  "title": "서구 전기차로 한 바퀴",
+  "regionId": "30170",
+  "spotIds": [
+   "r30170-03",
+   "r30170-05",
+   "r30170-06",
+   "r30170-01",
+   "r30170-02"
+  ],
+  "by": "커피로드",
+  "date": "2026-05-21",
+  "distanceKm": 48.0,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41280-g0",
+  "title": "고양 숨은 곳만",
+  "regionId": "41280",
+  "spotIds": [
+   "r41280-01",
+   "r41280-03",
+   "r41280-02",
+   "r41280-06"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-04-02",
+  "distanceKm": 48.6,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41550-g1",
+  "title": "아이랑 안성",
+  "regionId": "41550",
+  "spotIds": [
+   "r41550-02",
+   "r41550-01",
+   "r41550-03",
+   "r41550-04",
+   "r41550-06"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-03-25",
+  "distanceKm": 78.9,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41590-g0",
+  "title": "화성 숨은 곳만",
+  "regionId": "41590",
+  "spotIds": [
+   "r41590-01",
+   "r41590-03",
+   "r41590-02"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-05-09",
+  "distanceKm": 56.0,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43150-g0",
+  "title": "제천 점심 전에 끝",
+  "regionId": "43150",
+  "spotIds": [
+   "r43150-01",
+   "r43150-02",
+   "r43150-06",
+   "r43150-03"
+  ],
+  "by": "역사덕후",
+  "date": "2026-03-27",
+  "distanceKm": 80.9,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44180-g1",
+  "title": "보령 점심 전에 끝 2",
+  "regionId": "44180",
+  "spotIds": [
+   "r44180-02",
+   "r44180-03",
+   "r44180-01"
+  ],
+  "by": "역사덕후",
+  "date": "2026-04-23",
+  "distanceKm": 51.0,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44770-g0",
+  "title": "서천 처음이라면",
+  "regionId": "44770",
+  "spotIds": [
+   "r44770-01",
+   "r44770-03",
+   "r44770-02",
+   "r44770-06",
+   "r44770-04"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-04-11",
+  "distanceKm": 60.2,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44800-g1",
+  "title": "홍성 하루 코스",
+  "regionId": "44800",
+  "spotIds": [
+   "r44800-01",
+   "r44800-03",
+   "r44800-02"
+  ],
+  "by": "EV초보",
+  "date": "2026-06-06",
+  "distanceKm": 43.1,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44800-g2",
+  "title": "홍성 처음이라면",
+  "regionId": "44800",
+  "spotIds": [
+   "r44800-01",
+   "r44800-03",
+   "r44800-02",
+   "r44800-06"
+  ],
+  "by": "노을수집가",
+  "date": "2026-03-16",
+  "distanceKm": 47.9,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44800-g3",
+  "title": "홍성 대표만 콕",
+  "regionId": "44800",
+  "spotIds": [
+   "r44800-02",
+   "r44800-06",
+   "r44800-04",
+   "r44800-05",
+   "r44800-03",
+   "r44800-01"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-07-09",
+  "distanceKm": 52.1,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47170-g1",
+  "title": "안동 점심 전에 끝",
+  "regionId": "47170",
+  "spotIds": [
+   "ad-03",
+   "ad-02",
+   "ad-04"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-09-04",
+  "distanceKm": 78.7,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47230-g2",
+  "title": "영천 주말 한 바퀴",
+  "regionId": "47230",
+  "spotIds": [
+   "r47230-02",
+   "r47230-01",
+   "r47230-04",
+   "r47230-03",
+   "r47230-05"
+  ],
+  "by": "지도칠하는중",
+  "date": "2026-05-24",
+  "distanceKm": 87.7,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48870-g2",
+  "title": "함양 주말 한 바퀴",
+  "regionId": "48870",
+  "spotIds": [
+   "r48870-03",
+   "r48870-01",
+   "r48870-05",
+   "r48870-02"
+  ],
+  "by": "포터로캠핑",
+  "date": "2026-10-20",
+  "distanceKm": 79.3,
+  "cars": 16,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11530-g0",
+  "title": "구로구 점심 전에 끝",
+  "regionId": "11530",
+  "spotIds": [
+   "r11530-03",
+   "r11530-04",
+   "r11530-01",
+   "r11530-05",
+   "r11530-02"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-09-28",
+  "distanceKm": 32.7,
+  "cars": 15,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11560-g0",
+  "title": "영등포구 숨은 곳만",
+  "regionId": "11560",
+  "spotIds": [
+   "r11560-01",
+   "r11560-02",
+   "r11560-03"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-09-27",
+  "distanceKm": 18.7,
+  "cars": 15,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12860-g1",
+  "title": "진도 사진 찍기 좋은 순서",
+  "regionId": "12860",
+  "spotIds": [
+   "r12860-01",
+   "r12860-02",
+   "r12860-03"
+  ],
+  "by": "지도칠하는중",
+  "date": "2026-04-24",
+  "distanceKm": 33.3,
+  "cars": 15,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26110-g2",
+  "title": "중구 하루 코스",
+  "regionId": "26110",
+  "spotIds": [
+   "r26110-02",
+   "r26110-01",
+   "r26110-03",
+   "r26110-05",
+   "r26110-06",
+   "r26110-04"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-06-22",
+  "distanceKm": 22.2,
+  "cars": 15,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27290-g1",
+  "title": "달서구 노을까지",
+  "regionId": "27290",
+  "spotIds": [
+   "r27290-03",
+   "r27290-02",
+   "r27290-01"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-03-26",
+  "distanceKm": 31.9,
+  "cars": 15,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41170-g2",
+  "title": "안양 숨은 곳만 3",
+  "regionId": "41170",
+  "spotIds": [
+   "r41170-01",
+   "r41170-02",
+   "r41170-03"
+  ],
+  "by": "커피로드",
+  "date": "2026-05-15",
+  "distanceKm": 28.7,
+  "cars": 15,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41480-g1",
+  "title": "파주 노을까지",
+  "regionId": "41480",
+  "spotIds": [
+   "r41480-01",
+   "r41480-05",
+   "r41480-06",
+   "r41480-03",
+   "r41480-02"
+  ],
+  "by": "바다만골라",
+  "date": "2026-09-17",
+  "distanceKm": 57.8,
+  "cars": 15,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43760-g1",
+  "title": "괴산 전기차로 한 바퀴",
+  "regionId": "43760",
+  "spotIds": [
+   "r43760-03",
+   "r43760-02",
+   "r43760-01",
+   "r43760-05"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-06-03",
+  "distanceKm": 53.8,
+  "cars": 15,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43130-g1",
+  "title": "충주 주말 한 바퀴",
+  "regionId": "43130",
+  "spotIds": [
+   "cj-jungangtap",
+   "cj-tangeumdae",
+   "cj-chungjudam",
+   "cj-hwalok",
+   "cj-suanbo"
+  ],
+  "by": "신혼여행중",
+  "date": "2026-07-08",
+  "distanceKm": 50.4,
+  "cars": 15,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11530-g4",
+  "title": "구로구 반나절 드라이브",
+  "regionId": "11530",
+  "spotIds": [
+   "r11530-05",
+   "r11530-06",
+   "r11530-04"
+  ],
+  "by": "섬돌이",
+  "date": "2026-07-15",
+  "distanceKm": 27.6,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12800-g0",
+  "title": "영암 전기차로 한 바퀴",
+  "regionId": "12800",
+  "spotIds": [
+   "r12800-03",
+   "r12800-05",
+   "r12800-02",
+   "r12800-01"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-03-01",
+  "distanceKm": 67.0,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12800-g3",
+  "title": "영암 1박2일 알차게",
+  "regionId": "12800",
+  "spotIds": [
+   "r12800-03",
+   "r12800-04",
+   "r12800-06",
+   "r12800-02",
+   "r12800-05",
+   "r12800-01"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-10-21",
+  "distanceKm": 79.6,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26350-g1",
+  "title": "해운대구 점심 전에 끝",
+  "regionId": "26350",
+  "spotIds": [
+   "r26350-01",
+   "r26350-02",
+   "r26350-03",
+   "r26350-04"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-03-19",
+  "distanceKm": 33.4,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28275-g1",
+  "title": "아이랑 서해구",
+  "regionId": "28275",
+  "spotIds": [
+   "r28275-02",
+   "r28275-05",
+   "r28275-04",
+   "r28275-06",
+   "r28275-03",
+   "r28275-01"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-03-23",
+  "distanceKm": 37.7,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-31140-g0",
+  "title": "남구 반나절 드라이브",
+  "regionId": "31140",
+  "spotIds": [
+   "r31140-02",
+   "r31140-03",
+   "r31140-01"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-10-13",
+  "distanceKm": 48.8,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41830-g0",
+  "title": "양평 둘이서 천천히",
+  "regionId": "41830",
+  "spotIds": [
+   "r41830-01",
+   "r41830-03",
+   "r41830-02"
+  ],
+  "by": "혼자드라이브",
+  "date": "2026-08-04",
+  "distanceKm": 52.9,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43730-g1",
+  "title": "옥천 주말 한 바퀴 2",
+  "regionId": "43730",
+  "spotIds": [
+   "r43730-01",
+   "r43730-05",
+   "r43730-03",
+   "r43730-06",
+   "r43730-02"
+  ],
+  "by": "EV초보",
+  "date": "2026-05-04",
+  "distanceKm": 52.6,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44770-g1",
+  "title": "서천 주말 한 바퀴",
+  "regionId": "44770",
+  "spotIds": [
+   "r44770-03",
+   "r44770-01",
+   "r44770-02",
+   "r44770-06"
+  ],
+  "by": "EV초보",
+  "date": "2026-09-20",
+  "distanceKm": 68.9,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44770-g4",
+  "title": "서천 노을까지",
+  "regionId": "44770",
+  "spotIds": [
+   "r44770-06",
+   "r44770-04",
+   "r44770-02",
+   "r44770-05"
+  ],
+  "by": "로컬맛집헌터",
+  "date": "2026-09-22",
+  "distanceKm": 51.7,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47760-g2",
+  "title": "영양 처음이라면",
+  "regionId": "47760",
+  "spotIds": [
+   "r47760-02",
+   "r47760-03",
+   "r47760-01"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-09-06",
+  "distanceKm": 52.3,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47760-g4",
+  "title": "비 오는 날 영양",
+  "regionId": "47760",
+  "spotIds": [
+   "r47760-04",
+   "r47760-06",
+   "r47760-02",
+   "r47760-05",
+   "r47760-01"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-03-03",
+  "distanceKm": 112.3,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48890-g3",
+  "title": "합천 전기차로 한 바퀴",
+  "regionId": "48890",
+  "spotIds": [
+   "r48890-02",
+   "r48890-03",
+   "r48890-01",
+   "r48890-04"
+  ],
+  "by": "커피로드",
+  "date": "2026-09-23",
+  "distanceKm": 73.5,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51130-g2",
+  "title": "원주 처음이라면 3",
+  "regionId": "51130",
+  "spotIds": [
+   "r51130-03",
+   "r51130-06",
+   "r51130-05",
+   "r51130-01",
+   "r51130-04",
+   "r51130-02"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-06-09",
+  "distanceKm": 85.2,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51770-g2",
+  "title": "정선 노을까지",
+  "regionId": "51770",
+  "spotIds": [
+   "r51770-03",
+   "r51770-01",
+   "r51770-02"
+  ],
+  "by": "은퇴여행자",
+  "date": "2026-08-21",
+  "distanceKm": 56.6,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51810-g1",
+  "title": "인제 숨은 곳만",
+  "regionId": "51810",
+  "spotIds": [
+   "r51810-03",
+   "r51810-01",
+   "r51810-02",
+   "r51810-04",
+   "r51810-06"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-04-24",
+  "distanceKm": 133.4,
+  "cars": 14,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11260-g1",
+  "title": "중랑구 숨은 곳만",
+  "regionId": "11260",
+  "spotIds": [
+   "r11260-01",
+   "r11260-03",
+   "r11260-04",
+   "r11260-05",
+   "r11260-02"
+  ],
+  "by": "바다만골라",
+  "date": "2026-07-17",
+  "distanceKm": 36.1,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11410-g2",
+  "title": "비 오는 날 서대문구",
+  "regionId": "11410",
+  "spotIds": [
+   "r11410-02",
+   "r11410-06",
+   "r11410-03",
+   "r11410-04",
+   "r11410-01"
+  ],
+  "by": "로컬맛집헌터",
+  "date": "2026-08-16",
+  "distanceKm": 24.2,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11470-g2",
+  "title": "양천구 반나절 드라이브",
+  "regionId": "11470",
+  "spotIds": [
+   "r11470-02",
+   "r11470-04",
+   "r11470-03",
+   "r11470-06",
+   "r11470-01",
+   "r11470-05"
+  ],
+  "by": "아이오닉타고",
+  "date": "2026-05-04",
+  "distanceKm": 23.3,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11530-g1",
+  "title": "구로구 숨은 곳만",
+  "regionId": "11530",
+  "spotIds": [
+   "r11530-02",
+   "r11530-06",
+   "r11530-01",
+   "r11530-03"
+  ],
+  "by": "노을수집가",
+  "date": "2026-06-16",
+  "distanceKm": 35.3,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11560-g1",
+  "title": "영등포구 숨은 곳만 2",
+  "regionId": "11560",
+  "spotIds": [
+   "r11560-01",
+   "r11560-02",
+   "r11560-03",
+   "r11560-04"
+  ],
+  "by": "바다만골라",
+  "date": "2026-09-04",
+  "distanceKm": 30.1,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12710-g4",
+  "title": "비 오는 날 담양",
+  "regionId": "12710",
+  "spotIds": [
+   "dm-06",
+   "dm-01",
+   "dm-04",
+   "dm-08",
+   "dm-07",
+   "dm-05"
+  ],
+  "by": "혼자드라이브",
+  "date": "2026-07-17",
+  "distanceKm": 2658.3,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12740-g2",
+  "title": "고흥 하루 코스",
+  "regionId": "12740",
+  "spotIds": [
+   "r12740-02",
+   "r12740-05",
+   "r12740-03",
+   "r12740-01",
+   "r12740-04",
+   "r12740-06"
+  ],
+  "by": "커피로드",
+  "date": "2026-06-07",
+  "distanceKm": 110.3,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41590-g2",
+  "title": "화성 대표만 콕 3",
+  "regionId": "41590",
+  "spotIds": [
+   "r41590-02",
+   "r41590-03",
+   "r41590-01",
+   "r41590-04",
+   "r41590-05"
+  ],
+  "by": "EV초보",
+  "date": "2026-10-05",
+  "distanceKm": 68.6,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41820-g0",
+  "title": "가평 둘이서 천천히",
+  "regionId": "41820",
+  "spotIds": [
+   "gp-03",
+   "gp-05",
+   "gp-01",
+   "gp-04",
+   "gp-08",
+   "gp-02"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-10-26",
+  "distanceKm": 50.7,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43800-g2",
+  "title": "단양 사진 찍기 좋은 순서",
+  "regionId": "43800",
+  "spotIds": [
+   "dy-02",
+   "dy-01",
+   "dy-05",
+   "dy-04"
+  ],
+  "by": "지도칠하는중",
+  "date": "2026-09-21",
+  "distanceKm": 47.2,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47190-g2",
+  "title": "비 오는 날 구미",
+  "regionId": "47190",
+  "spotIds": [
+   "r47190-02",
+   "r47190-05",
+   "r47190-06",
+   "r47190-01",
+   "r47190-03"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-05-27",
+  "distanceKm": 78.4,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47900-g3",
+  "title": "예천 반나절 드라이브",
+  "regionId": "47900",
+  "spotIds": [
+   "r47900-03",
+   "r47900-04",
+   "r47900-05",
+   "r47900-06",
+   "r47900-02",
+   "r47900-01"
+  ],
+  "by": "신혼여행중",
+  "date": "2026-03-27",
+  "distanceKm": 75.5,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48270-g2",
+  "title": "밀양 1박2일 알차게",
+  "regionId": "48270",
+  "spotIds": [
+   "r48270-03",
+   "r48270-01",
+   "r48270-02"
+  ],
+  "by": "EV초보",
+  "date": "2026-08-05",
+  "distanceKm": 59.2,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-50110-g1",
+  "title": "제주 전기차로 한 바퀴",
+  "regionId": "50110",
+  "spotIds": [
+   "jc-01",
+   "jc-02",
+   "jc-04"
+  ],
+  "by": "노을수집가",
+  "date": "2026-07-19",
+  "distanceKm": 84.7,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-50110-g2",
+  "title": "제주 사진 찍기 좋은 순서",
+  "regionId": "50110",
+  "spotIds": [
+   "jc-03",
+   "jc-01",
+   "jc-05"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-10-15",
+  "distanceKm": 57.9,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-50130-g1",
+  "title": "부모님 모시고 서귀포",
+  "regionId": "50130",
+  "spotIds": [
+   "sg-02",
+   "sg-01",
+   "sg-05",
+   "sg-04",
+   "sg-03",
+   "sg-08"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-06-22",
+  "distanceKm": 68.8,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51210-g1",
+  "title": "속초 주말 한 바퀴 2",
+  "regionId": "51210",
+  "spotIds": [
+   "sc-01",
+   "sc-02",
+   "sc-04",
+   "sc-03"
+  ],
+  "by": "아이5오너",
+  "date": "2026-10-04",
+  "distanceKm": 43.2,
+  "cars": 13,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11680-g1",
+  "title": "강남구 주말 한 바퀴",
+  "regionId": "11680",
+  "spotIds": [
+   "r11680-02",
+   "r11680-01",
+   "r11680-03"
+  ],
+  "by": "아이5오너",
+  "date": "2026-10-01",
+  "distanceKm": 23.5,
+  "cars": 12,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12130-g2",
+  "title": "여수 처음이라면 3",
+  "regionId": "12130",
+  "spotIds": [
+   "ys-02",
+   "ys-03",
+   "ys-05",
+   "ys-01",
+   "ys-04"
+  ],
+  "by": "은퇴여행자",
+  "date": "2026-03-04",
+  "distanceKm": 45.3,
+  "cars": 12,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26470-g0",
+  "title": "비 오는 날 연제구",
+  "regionId": "26470",
+  "spotIds": [
+   "r26470-03",
+   "r26470-06",
+   "r26470-05",
+   "r26470-01",
+   "r26470-02",
+   "r26470-04"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-09-25",
+  "distanceKm": 39.8,
+  "cars": 12,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27290-g3",
+  "title": "달서구 처음이라면 4",
+  "regionId": "27290",
+  "spotIds": [
+   "r27290-01",
+   "r27290-04",
+   "r27290-03",
+   "r27290-02"
+  ],
+  "by": "노을수집가",
+  "date": "2026-07-10",
+  "distanceKm": 29.3,
+  "cars": 12,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41210-g1",
+  "title": "아이랑 광명",
+  "regionId": "41210",
+  "spotIds": [
+   "r41210-02",
+   "r41210-03",
+   "r41210-01"
+  ],
+  "by": "아이오닉타고",
+  "date": "2026-05-08",
+  "distanceKm": 24.9,
+  "cars": 12,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43800-g4",
+  "title": "단양 하루 코스",
+  "regionId": "43800",
+  "spotIds": [
+   "dy-08",
+   "dy-06",
+   "dy-07"
+  ],
+  "by": "바다만골라",
+  "date": "2026-09-28",
+  "distanceKm": 40.7,
+  "cars": 12,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44770-g2",
+  "title": "아이랑 서천",
+  "regionId": "44770",
+  "spotIds": [
+   "r44770-03",
+   "r44770-01",
+   "r44770-02"
+  ],
+  "by": "신혼여행중",
+  "date": "2026-10-28",
+  "distanceKm": 57.5,
+  "cars": 12,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47900-g0",
+  "title": "아이랑 예천",
+  "regionId": "47900",
+  "spotIds": [
+   "r47900-01",
+   "r47900-02",
+   "r47900-05",
+   "r47900-03"
+  ],
+  "by": "지도칠하는중",
+  "date": "2026-09-13",
+  "distanceKm": 56.2,
+  "cars": 12,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47930-g3",
+  "title": "울진 점심 전에 끝",
+  "regionId": "47930",
+  "spotIds": [
+   "r47930-03",
+   "r47930-05",
+   "r47930-02",
+   "r47930-01",
+   "r47930-04",
+   "r47930-06"
+  ],
+  "by": "포터로캠핑",
+  "date": "2026-03-26",
+  "distanceKm": 116.6,
+  "cars": 12,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48850-g2",
+  "title": "하동 점심 전에 끝",
+  "regionId": "48850",
+  "spotIds": [
+   "r48850-01",
+   "r48850-05",
+   "r48850-02",
+   "r48850-04",
+   "r48850-06",
+   "r48850-03"
+  ],
+  "by": "바다만골라",
+  "date": "2026-04-04",
+  "distanceKm": 88.7,
+  "cars": 12,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51130-g1",
+  "title": "원주 둘이서 천천히",
+  "regionId": "51130",
+  "spotIds": [
+   "r51130-03",
+   "r51130-01",
+   "r51130-04",
+   "r51130-02"
+  ],
+  "by": "두아이아빠",
+  "date": "2026-09-17",
+  "distanceKm": 79.7,
+  "cars": 12,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11110-g1",
+  "title": "종로구 숨은 곳만",
+  "regionId": "11110",
+  "spotIds": [
+   "r11110-02",
+   "r11110-03",
+   "r11110-06",
+   "r11110-04",
+   "r11110-01"
+  ],
+  "by": "섬돌이",
+  "date": "2026-03-07",
+  "distanceKm": 33.1,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26170-g0",
+  "title": "동구 주말 한 바퀴",
+  "regionId": "26170",
+  "spotIds": [
+   "r26170-02",
+   "r26170-03",
+   "r26170-01"
+  ],
+  "by": "산길만골라",
+  "date": "2026-03-20",
+  "distanceKm": 18.3,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27290-g0",
+  "title": "달서구 처음이라면",
+  "regionId": "27290",
+  "spotIds": [
+   "r27290-01",
+   "r27290-03",
+   "r27290-02"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-08-04",
+  "distanceKm": 29.4,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27720-g3",
+  "title": "부모님 모시고 군위",
+  "regionId": "27720",
+  "spotIds": [
+   "r27720-01",
+   "r27720-02",
+   "r27720-03"
+  ],
+  "by": "아이5오너",
+  "date": "2026-05-05",
+  "distanceKm": 55.4,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28237-g2",
+  "title": "비 오는 날 부평구 3",
+  "regionId": "28237",
+  "spotIds": [
+   "r28237-02",
+   "r28237-03",
+   "r28237-01",
+   "r28237-04",
+   "r28237-06"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-05-18",
+  "distanceKm": 33.9,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-30110-g2",
+  "title": "동구 노을까지",
+  "regionId": "30110",
+  "spotIds": [
+   "r30110-01",
+   "r30110-02",
+   "r30110-04",
+   "r30110-05",
+   "r30110-06",
+   "r30110-03"
+  ],
+  "by": "강아지랑차박",
+  "date": "2026-09-16",
+  "distanceKm": 64.1,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41130-g0",
+  "title": "성남 사진 찍기 좋은 순서",
+  "regionId": "41130",
+  "spotIds": [
+   "r41130-02",
+   "r41130-01",
+   "r41130-06",
+   "r41130-03"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-05-24",
+  "distanceKm": 48.6,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44210-g3",
+  "title": "서산 사진 찍기 좋은 순서",
+  "regionId": "44210",
+  "spotIds": [
+   "r44210-01",
+   "r44210-02",
+   "r44210-03",
+   "r44210-04"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-06-21",
+  "distanceKm": 77.2,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44250-g1",
+  "title": "계룡 1박2일 알차게",
+  "regionId": "44250",
+  "spotIds": [
+   "r44250-01",
+   "r44250-02",
+   "r44250-03",
+   "r44250-06",
+   "r44250-04"
+  ],
+  "by": "강아지랑차박",
+  "date": "2026-03-15",
+  "distanceKm": 33.4,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47760-g0",
+  "title": "영양 주말 한 바퀴",
+  "regionId": "47760",
+  "spotIds": [
+   "r47760-01",
+   "r47760-04",
+   "r47760-02",
+   "r47760-03"
+  ],
+  "by": "신혼여행중",
+  "date": "2026-10-06",
+  "distanceKm": 68.1,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47760-g1",
+  "title": "영양 점심 전에 끝",
+  "regionId": "47760",
+  "spotIds": [
+   "r47760-01",
+   "r47760-04",
+   "r47760-02",
+   "r47760-03",
+   "r47760-05"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-05-27",
+  "distanceKm": 107.0,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47820-g2",
+  "title": "비 오는 날 청도",
+  "regionId": "47820",
+  "spotIds": [
+   "r47820-03",
+   "r47820-05",
+   "r47820-02",
+   "r47820-01"
+  ],
+  "by": "강아지랑차박",
+  "date": "2026-03-11",
+  "distanceKm": 59.4,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48120-g0",
+  "title": "창원 하루 코스",
+  "regionId": "48120",
+  "spotIds": [
+   "r48120-02",
+   "r48120-01",
+   "r48120-05",
+   "r48120-03",
+   "r48120-04"
+  ],
+  "by": "강아지랑차박",
+  "date": "2026-09-01",
+  "distanceKm": 48.0,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-50110-g0",
+  "title": "제주 대표만 콕",
+  "regionId": "50110",
+  "spotIds": [
+   "jc-01",
+   "jc-05",
+   "jc-02",
+   "jc-04"
+  ],
+  "by": "포터로캠핑",
+  "date": "2026-05-06",
+  "distanceKm": 105.3,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51150-g0",
+  "title": "아이랑 강릉",
+  "regionId": "51150",
+  "spotIds": [
+   "gn-04",
+   "gn-01",
+   "gn-05",
+   "gn-02"
+  ],
+  "by": "EV초보",
+  "date": "2026-03-08",
+  "distanceKm": 42.7,
+  "cars": 11,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-30110-g0",
+  "title": "동구 대표만 콕",
+  "regionId": "30110",
+  "spotIds": [
+   "r30110-03",
+   "r30110-04",
+   "r30110-01",
+   "r30110-02"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-04-14",
+  "distanceKm": 53.3,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-30230-g0",
+  "title": "대덕구 대표만 콕",
+  "regionId": "30230",
+  "spotIds": [
+   "r30230-03",
+   "r30230-02",
+   "r30230-01"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-06-16",
+  "distanceKm": 38.2,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41130-g1",
+  "title": "성남 전기차로 한 바퀴",
+  "regionId": "41130",
+  "spotIds": [
+   "r41130-02",
+   "r41130-04",
+   "r41130-01",
+   "r41130-05",
+   "r41130-06",
+   "r41130-03"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-04-05",
+  "distanceKm": 50.8,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41310-g0",
+  "title": "구리 둘이서 천천히",
+  "regionId": "41310",
+  "spotIds": [
+   "r41310-01",
+   "r41310-06",
+   "r41310-02",
+   "r41310-05",
+   "r41310-03"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-03-21",
+  "distanceKm": 46.8,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41670-g2",
+  "title": "여주 처음이라면",
+  "regionId": "41670",
+  "spotIds": [
+   "r41670-03",
+   "r41670-05",
+   "r41670-04",
+   "r41670-02",
+   "r41670-06",
+   "r41670-01"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-10-27",
+  "distanceKm": 63.0,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44825-g1",
+  "title": "태안 대표만 콕",
+  "regionId": "44825",
+  "spotIds": [
+   "ta-05",
+   "ta-01",
+   "ta-04"
+  ],
+  "by": "아이5오너",
+  "date": "2026-07-16",
+  "distanceKm": 50.3,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47820-g1",
+  "title": "청도 하루 코스",
+  "regionId": "47820",
+  "spotIds": [
+   "r47820-03",
+   "r47820-06",
+   "r47820-04",
+   "r47820-01",
+   "r47820-02",
+   "r47820-05"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-10-27",
+  "distanceKm": 59.4,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47900-g4",
+  "title": "예천 숨은 곳만",
+  "regionId": "47900",
+  "spotIds": [
+   "r47900-06",
+   "r47900-04",
+   "r47900-05"
+  ],
+  "by": "로컬맛집헌터",
+  "date": "2026-04-17",
+  "distanceKm": 35.5,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48120-g2",
+  "title": "창원 하루 코스 3",
+  "regionId": "48120",
+  "spotIds": [
+   "r48120-02",
+   "r48120-01",
+   "r48120-03",
+   "r48120-04",
+   "r48120-06"
+  ],
+  "by": "아이5오너",
+  "date": "2026-04-06",
+  "distanceKm": 72.2,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48850-g1",
+  "title": "하동 노을까지",
+  "regionId": "48850",
+  "spotIds": [
+   "r48850-02",
+   "r48850-05",
+   "r48850-01",
+   "r48850-03"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-09-14",
+  "distanceKm": 51.5,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48890-g4",
+  "title": "부모님 모시고 합천",
+  "regionId": "48890",
+  "spotIds": [
+   "r48890-04",
+   "r48890-06",
+   "r48890-05",
+   "r48890-03",
+   "r48890-02"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-08-02",
+  "distanceKm": 96.8,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51130-g0",
+  "title": "원주 처음이라면",
+  "regionId": "51130",
+  "spotIds": [
+   "r51130-03",
+   "r51130-05",
+   "r51130-01",
+   "r51130-02"
+  ],
+  "by": "코나로전국",
+  "date": "2026-06-09",
+  "distanceKm": 92.9,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51720-g0",
+  "title": "홍천 1박2일 알차게",
+  "regionId": "51720",
+  "spotIds": [
+   "r51720-03",
+   "r51720-01",
+   "r51720-02"
+  ],
+  "by": "아이5오너",
+  "date": "2026-04-25",
+  "distanceKm": 116.8,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51790-g2",
+  "title": "화천 노을까지",
+  "regionId": "51790",
+  "spotIds": [
+   "r51790-01",
+   "r51790-06",
+   "r51790-03",
+   "r51790-02"
+  ],
+  "by": "커피로드",
+  "date": "2026-07-12",
+  "distanceKm": 86.4,
+  "cars": 10,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12190-g0",
+  "title": "광양 반나절 드라이브",
+  "regionId": "12190",
+  "spotIds": [
+   "r12190-03",
+   "r12190-02",
+   "r12190-01"
+  ],
+  "by": "강아지랑차박",
+  "date": "2026-05-13",
+  "distanceKm": 350.2,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12240-g4",
+  "title": "서구 전기차로 한 바퀴",
+  "regionId": "12240",
+  "spotIds": [
+   "r12240-05",
+   "r12240-04",
+   "r12240-06",
+   "r12240-03"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-08-06",
+  "distanceKm": 19.7,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26170-g1",
+  "title": "동구 전기차로 한 바퀴",
+  "regionId": "26170",
+  "spotIds": [
+   "r26170-02",
+   "r26170-05",
+   "r26170-03",
+   "r26170-06",
+   "r26170-01"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-07-14",
+  "distanceKm": 15.7,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27170-g0",
+  "title": "서구 대표만 콕",
+  "regionId": "27170",
+  "spotIds": [
+   "r27170-03",
+   "r27170-01",
+   "r27170-02"
+  ],
+  "by": "섬돌이",
+  "date": "2026-05-27",
+  "distanceKm": 32.8,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27230-g1",
+  "title": "북구 대표만 콕",
+  "regionId": "27230",
+  "spotIds": [
+   "r27230-03",
+   "r27230-01",
+   "r27230-02"
+  ],
+  "by": "지도칠하는중",
+  "date": "2026-03-14",
+  "distanceKm": 21.5,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41170-g0",
+  "title": "안양 1박2일 알차게",
+  "regionId": "41170",
+  "spotIds": [
+   "r41170-03",
+   "r41170-05",
+   "r41170-02",
+   "r41170-01",
+   "r41170-04",
+   "r41170-06"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-06-02",
+  "distanceKm": 26.3,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41170-g1",
+  "title": "안양 숨은 곳만",
+  "regionId": "41170",
+  "spotIds": [
+   "r41170-02",
+   "r41170-01",
+   "r41170-04",
+   "r41170-06",
+   "r41170-05",
+   "r41170-03"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-03-10",
+  "distanceKm": 20.4,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41450-g1",
+  "title": "하남 처음이라면",
+  "regionId": "41450",
+  "spotIds": [
+   "r41450-03",
+   "r41450-01",
+   "r41450-02"
+  ],
+  "by": "코나로전국",
+  "date": "2026-03-24",
+  "distanceKm": 20.7,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43800-g3",
+  "title": "단양 반나절 드라이브 4",
+  "regionId": "43800",
+  "spotIds": [
+   "dy-04",
+   "dy-05",
+   "dy-02",
+   "dy-01",
+   "dy-03"
+  ],
+  "by": "역사덕후",
+  "date": "2026-08-25",
+  "distanceKm": 49.4,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44180-g4",
+  "title": "보령 하루 코스 5",
+  "regionId": "44180",
+  "spotIds": [
+   "r44180-06",
+   "r44180-02",
+   "r44180-04",
+   "r44180-05"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-06-10",
+  "distanceKm": 54.8,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47230-g0",
+  "title": "영천 점심 전에 끝",
+  "regionId": "47230",
+  "spotIds": [
+   "r47230-01",
+   "r47230-02",
+   "r47230-03",
+   "r47230-05"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-04-15",
+  "distanceKm": 75.0,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47730-g3",
+  "title": "의성 주말 한 바퀴",
+  "regionId": "47730",
+  "spotIds": [
+   "r47730-02",
+   "r47730-01",
+   "r47730-03"
+  ],
+  "by": "커피로드",
+  "date": "2026-03-06",
+  "distanceKm": 93.2,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48730-g2",
+  "title": "함안 하루 코스",
+  "regionId": "48730",
+  "spotIds": [
+   "r48730-03",
+   "r48730-05",
+   "r48730-01",
+   "r48730-02"
+  ],
+  "by": "신혼여행중",
+  "date": "2026-05-26",
+  "distanceKm": 47.7,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51190-g1",
+  "title": "비 오는 날 태백",
+  "regionId": "51190",
+  "spotIds": [
+   "r51190-03",
+   "r51190-04",
+   "r51190-06",
+   "r51190-01",
+   "r51190-05",
+   "r51190-02"
+  ],
+  "by": "산길만골라",
+  "date": "2026-06-19",
+  "distanceKm": 57.5,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51190-g2",
+  "title": "태백 점심 전에 끝",
+  "regionId": "51190",
+  "spotIds": [
+   "r51190-03",
+   "r51190-02",
+   "r51190-05",
+   "r51190-01"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-09-19",
+  "distanceKm": 37.8,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51750-g1",
+  "title": "영월 점심 전에 끝",
+  "regionId": "51750",
+  "spotIds": [
+   "r51750-03",
+   "r51750-01",
+   "r51750-06",
+   "r51750-02"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-07-07",
+  "distanceKm": 21.5,
+  "cars": 9,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12780-g3",
+  "title": "강진 둘이서 천천히",
+  "regionId": "12780",
+  "spotIds": [
+   "r12780-01",
+   "r12780-02",
+   "r12780-03",
+   "r12780-04",
+   "r12780-05"
+  ],
+  "by": "노을수집가",
+  "date": "2026-04-27",
+  "distanceKm": 96.0,
+  "cars": 8,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26290-g0",
+  "title": "부모님 모시고 남구",
+  "regionId": "26290",
+  "spotIds": [
+   "r26290-01",
+   "r26290-06",
+   "r26290-02",
+   "r26290-04",
+   "r26290-03"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-08-03",
+  "distanceKm": 30.2,
+  "cars": 8,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28155-g0",
+  "title": "영종구 1박2일 알차게",
+  "regionId": "28155",
+  "spotIds": [
+   "r28155-03",
+   "r28155-02",
+   "r28155-01",
+   "r28155-04",
+   "r28155-05",
+   "r28155-06"
+  ],
+  "by": "커피로드",
+  "date": "2026-10-19",
+  "distanceKm": 38.0,
+  "cars": 8,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28710-g4",
+  "title": "강화 사진 찍기 좋은 순서 5",
+  "regionId": "28710",
+  "spotIds": [
+   "r28710-06",
+   "r28710-04",
+   "r28710-05"
+  ],
+  "by": "아이5오너",
+  "date": "2026-05-25",
+  "distanceKm": 36.1,
+  "cars": 8,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-36110-g0",
+  "title": "세종 주말 한 바퀴",
+  "regionId": "36110",
+  "spotIds": [
+   "r36110-03",
+   "r36110-01",
+   "r36110-02"
+  ],
+  "by": "포터로캠핑",
+  "date": "2026-05-08",
+  "distanceKm": 53.6,
+  "cars": 8,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-43730-g3",
+  "title": "옥천 하루 코스",
+  "regionId": "43730",
+  "spotIds": [
+   "r43730-02",
+   "r43730-04",
+   "r43730-03",
+   "r43730-01"
+  ],
+  "by": "커피로드",
+  "date": "2026-08-14",
+  "distanceKm": 44.3,
+  "cars": 8,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44825-g2",
+  "title": "태안 점심 전에 끝",
+  "regionId": "44825",
+  "spotIds": [
+   "ta-03",
+   "ta-02",
+   "ta-05",
+   "ta-01"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-06-20",
+  "distanceKm": 72.5,
+  "cars": 8,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48240-g2",
+  "title": "사천 처음이라면",
+  "regionId": "48240",
+  "spotIds": [
+   "r48240-01",
+   "r48240-03",
+   "r48240-02"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-09-19",
+  "distanceKm": 32.6,
+  "cars": 8,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51150-g1",
+  "title": "강릉 1박2일 알차게",
+  "regionId": "51150",
+  "spotIds": [
+   "gn-02",
+   "gn-04",
+   "gn-01"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-10-23",
+  "distanceKm": 31.4,
+  "cars": 8,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51720-g2",
+  "title": "홍천 숨은 곳만",
+  "regionId": "51720",
+  "spotIds": [
+   "r51720-02",
+   "r51720-01",
+   "r51720-03"
+  ],
+  "by": "비오는날좋아",
+  "date": "2026-09-02",
+  "distanceKm": 114.1,
+  "cars": 8,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11305-g0",
+  "title": "강북구 주말 한 바퀴",
+  "regionId": "11305",
+  "spotIds": [
+   "r11305-01",
+   "r11305-03",
+   "r11305-05",
+   "r11305-02"
+  ],
+  "by": "커피로드",
+  "date": "2026-10-03",
+  "distanceKm": 116.6,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12760-g1",
+  "title": "화순 대표만 콕",
+  "regionId": "12760",
+  "spotIds": [
+   "r12760-02",
+   "r12760-04",
+   "r12760-03",
+   "r12760-01",
+   "r12760-05"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-08-06",
+  "distanceKm": 91.2,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12820-g4",
+  "title": "함평 점심 전에 끝 5",
+  "regionId": "12820",
+  "spotIds": [
+   "r12820-06",
+   "r12820-01",
+   "r12820-02",
+   "r12820-04",
+   "r12820-03",
+   "r12820-05"
+  ],
+  "by": "아이5오너",
+  "date": "2026-06-28",
+  "distanceKm": 56.9,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26290-g4",
+  "title": "남구 점심 전에 끝",
+  "regionId": "26290",
+  "spotIds": [
+   "r26290-05",
+   "r26290-04",
+   "r26290-06"
+  ],
+  "by": "산길만골라",
+  "date": "2026-09-05",
+  "distanceKm": 27.9,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-26530-g3",
+  "title": "사상구 점심 전에 끝",
+  "regionId": "26530",
+  "spotIds": [
+   "r26530-01",
+   "r26530-05",
+   "r26530-02",
+   "r26530-04",
+   "r26530-03"
+  ],
+  "by": "바다만골라",
+  "date": "2026-04-03",
+  "distanceKm": 24.9,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27720-g1",
+  "title": "군위 전기차로 한 바퀴",
+  "regionId": "27720",
+  "spotIds": [
+   "r27720-01",
+   "r27720-02",
+   "r27720-03",
+   "r27720-04"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-05-19",
+  "distanceKm": 53.6,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27720-g2",
+  "title": "군위 노을까지",
+  "regionId": "27720",
+  "spotIds": [
+   "r27720-02",
+   "r27720-01",
+   "r27720-03",
+   "r27720-04",
+   "r27720-06",
+   "r27720-05"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-03-05",
+  "distanceKm": 104.0,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-31200-g2",
+  "title": "북구 노을까지",
+  "regionId": "31200",
+  "spotIds": [
+   "r31200-03",
+   "r31200-01",
+   "r31200-02",
+   "r31200-06",
+   "r31200-05"
+  ],
+  "by": "아이오닉타고",
+  "date": "2026-09-09",
+  "distanceKm": 45.7,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41370-g1",
+  "title": "오산 주말 한 바퀴",
+  "regionId": "41370",
+  "spotIds": [
+   "r41370-02",
+   "r41370-03",
+   "r41370-06",
+   "r41370-01"
+  ],
+  "by": "부모님모시고",
+  "date": "2026-07-13",
+  "distanceKm": 22.2,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41410-g0",
+  "title": "군포 전기차로 한 바퀴",
+  "regionId": "41410",
+  "spotIds": [
+   "r41410-01",
+   "r41410-03",
+   "r41410-02",
+   "r41410-04"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-03-09",
+  "distanceKm": 38.4,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44770-g3",
+  "title": "서천 반나절 드라이브",
+  "regionId": "44770",
+  "spotIds": [
+   "r44770-02",
+   "r44770-03",
+   "r44770-01"
+  ],
+  "by": "캠핑의자둘",
+  "date": "2026-08-05",
+  "distanceKm": 64.4,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47190-g0",
+  "title": "구미 처음이라면",
+  "regionId": "47190",
+  "spotIds": [
+   "r47190-03",
+   "r47190-04",
+   "r47190-01",
+   "r47190-02"
+  ],
+  "by": "혼자드라이브",
+  "date": "2026-08-06",
+  "distanceKm": 69.3,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47190-g1",
+  "title": "구미 대표만 콕",
+  "regionId": "47190",
+  "spotIds": [
+   "r47190-01",
+   "r47190-06",
+   "r47190-02",
+   "r47190-03"
+  ],
+  "by": "바다만골라",
+  "date": "2026-08-20",
+  "distanceKm": 87.9,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47930-g0",
+  "title": "울진 반나절 드라이브",
+  "regionId": "47930",
+  "spotIds": [
+   "r47930-01",
+   "r47930-04",
+   "r47930-06",
+   "r47930-03",
+   "r47930-02"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-09-01",
+  "distanceKm": 96.6,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47930-g2",
+  "title": "울진 전기차로 한 바퀴",
+  "regionId": "47930",
+  "spotIds": [
+   "r47930-01",
+   "r47930-02",
+   "r47930-03"
+  ],
+  "by": "지도칠하는중",
+  "date": "2026-05-20",
+  "distanceKm": 71.1,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48820-g0",
+  "title": "고성 대표만 콕",
+  "regionId": "48820",
+  "spotIds": [
+   "r48820-01",
+   "r48820-05",
+   "r48820-03",
+   "r48820-02"
+  ],
+  "by": "노을수집가",
+  "date": "2026-04-28",
+  "distanceKm": 58.6,
+  "cars": 7,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11560-g3",
+  "title": "영등포구 전기차로 한 바퀴 4",
+  "regionId": "11560",
+  "spotIds": [
+   "r11560-01",
+   "r11560-05",
+   "r11560-02",
+   "r11560-03"
+  ],
+  "by": "노을수집가",
+  "date": "2026-10-14",
+  "distanceKm": 15.3,
+  "cars": 6,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11680-g3",
+  "title": "강남구 반나절 드라이브",
+  "regionId": "11680",
+  "spotIds": [
+   "r11680-03",
+   "r11680-05",
+   "r11680-02",
+   "r11680-01"
+  ],
+  "by": "EV초보",
+  "date": "2026-06-25",
+  "distanceKm": 34.8,
+  "cars": 6,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12800-g2",
+  "title": "영암 처음이라면",
+  "regionId": "12800",
+  "spotIds": [
+   "r12800-02",
+   "r12800-05",
+   "r12800-01",
+   "r12800-03"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-04-10",
+  "distanceKm": 80.6,
+  "cars": 6,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28237-g0",
+  "title": "부평구 전기차로 한 바퀴",
+  "regionId": "28237",
+  "spotIds": [
+   "r28237-01",
+   "r28237-03",
+   "r28237-02",
+   "r28237-04",
+   "r28237-06"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-10-09",
+  "distanceKm": 30.1,
+  "cars": 6,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-30230-g1",
+  "title": "대덕구 처음이라면",
+  "regionId": "30230",
+  "spotIds": [
+   "r30230-01",
+   "r30230-03",
+   "r30230-02"
+  ],
+  "by": "로컬맛집헌터",
+  "date": "2026-10-27",
+  "distanceKm": 32.1,
+  "cars": 6,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-30230-g2",
+  "title": "대덕구 처음이라면 3",
+  "regionId": "30230",
+  "spotIds": [
+   "r30230-03",
+   "r30230-06",
+   "r30230-02",
+   "r30230-05",
+   "r30230-04",
+   "r30230-01"
+  ],
+  "by": "EV초보",
+  "date": "2026-05-20",
+  "distanceKm": 38.2,
+  "cars": 6,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-36110-g3",
+  "title": "세종 처음이라면",
+  "regionId": "36110",
+  "spotIds": [
+   "r36110-01",
+   "r36110-02",
+   "r36110-03"
+  ],
+  "by": "사진찍는아빠",
+  "date": "2026-07-10",
+  "distanceKm": 43.1,
+  "cars": 6,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41310-g3",
+  "title": "부모님 모시고 구리",
+  "regionId": "41310",
+  "spotIds": [
+   "r41310-03",
+   "r41310-06",
+   "r41310-02",
+   "r41310-05",
+   "r41310-01"
+  ],
+  "by": "은퇴여행자",
+  "date": "2026-05-13",
+  "distanceKm": 38.8,
+  "cars": 6,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41370-g4",
+  "title": "오산 점심 전에 끝",
+  "regionId": "41370",
+  "spotIds": [
+   "r41370-04",
+   "r41370-06",
+   "r41370-05"
+  ],
+  "by": "역사덕후",
+  "date": "2026-05-24",
+  "distanceKm": 20.3,
+  "cars": 6,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41820-g2",
+  "title": "가평 전기차로 한 바퀴",
+  "regionId": "41820",
+  "spotIds": [
+   "gp-02",
+   "gp-06",
+   "gp-04",
+   "gp-01",
+   "gp-05",
+   "gp-03"
+  ],
+  "by": "혼자드라이브",
+  "date": "2026-05-27",
+  "distanceKm": 60.3,
+  "cars": 6,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44250-g0",
+  "title": "계룡 반나절 드라이브",
+  "regionId": "44250",
+  "spotIds": [
+   "r44250-03",
+   "r44250-06",
+   "r44250-04",
+   "r44250-01",
+   "r44250-02"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-05-19",
+  "distanceKm": 30.3,
+  "cars": 6,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48330-g0",
+  "title": "양산 숨은 곳만",
+  "regionId": "48330",
+  "spotIds": [
+   "r48330-03",
+   "r48330-05",
+   "r48330-04",
+   "r48330-01",
+   "r48330-06",
+   "r48330-02"
+  ],
+  "by": "바다만골라",
+  "date": "2026-09-01",
+  "distanceKm": 64.3,
+  "cars": 6,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-50130-g2",
+  "title": "서귀포 둘이서 천천히",
+  "regionId": "50130",
+  "spotIds": [
+   "sg-03",
+   "sg-05",
+   "sg-01",
+   "sg-04"
+  ],
+  "by": "EV초보",
+  "date": "2026-05-21",
+  "distanceKm": 35.0,
+  "cars": 6,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11410-g3",
+  "title": "서대문구 노을까지",
+  "regionId": "11410",
+  "spotIds": [
+   "r11410-01",
+   "r11410-03",
+   "r11410-02",
+   "r11410-05"
+  ],
+  "by": "포터로캠핑",
+  "date": "2026-08-23",
+  "distanceKm": 16.8,
+  "cars": 5,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11620-g0",
+  "title": "관악구 사진 찍기 좋은 순서",
+  "regionId": "11620",
+  "spotIds": [
+   "r11620-01",
+   "r11620-05",
+   "r11620-02",
+   "r11620-03",
+   "r11620-04",
+   "r11620-06"
+  ],
+  "by": "코나로전국",
+  "date": "2026-03-19",
+  "distanceKm": 41.3,
+  "cars": 5,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11680-g4",
+  "title": "아이랑 강남구",
+  "regionId": "11680",
+  "spotIds": [
+   "r11680-04",
+   "r11680-01",
+   "r11680-06",
+   "r11680-05"
+  ],
+  "by": "쏘렌토패밀리",
+  "date": "2026-03-08",
+  "distanceKm": 19.9,
+  "cars": 5,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28185-g0",
+  "title": "연수구 주말 한 바퀴",
+  "regionId": "28185",
+  "spotIds": [
+   "r28185-01",
+   "r28185-02",
+   "r28185-04",
+   "r28185-03"
+  ],
+  "by": "코나로전국",
+  "date": "2026-05-08",
+  "distanceKm": 17.8,
+  "cars": 5,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-28710-g2",
+  "title": "강화 사진 찍기 좋은 순서 3",
+  "regionId": "28710",
+  "spotIds": [
+   "r28710-02",
+   "r28710-01",
+   "r28710-03"
+  ],
+  "by": "산길만골라",
+  "date": "2026-10-19",
+  "distanceKm": 23.3,
+  "cars": 5,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41550-g2",
+  "title": "안성 1박2일 알차게",
+  "regionId": "41550",
+  "spotIds": [
+   "r41550-03",
+   "r41550-02",
+   "r41550-01"
+  ],
+  "by": "섬돌이",
+  "date": "2026-04-19",
+  "distanceKm": 30.3,
+  "cars": 5,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41830-g2",
+  "title": "양평 사진 찍기 좋은 순서",
+  "regionId": "41830",
+  "spotIds": [
+   "r41830-01",
+   "r41830-03",
+   "r41830-06",
+   "r41830-02"
+  ],
+  "by": "주말마다서해",
+  "date": "2026-08-07",
+  "distanceKm": 68.1,
+  "cars": 5,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47930-g1",
+  "title": "울진 사진 찍기 좋은 순서",
+  "regionId": "47930",
+  "spotIds": [
+   "r47930-01",
+   "r47930-04",
+   "r47930-06",
+   "r47930-03",
+   "r47930-05",
+   "r47930-02"
+  ],
+  "by": "충전하며여행",
+  "date": "2026-08-14",
+  "distanceKm": 109.5,
+  "cars": 5,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11305-g1",
+  "title": "강북구 반나절 드라이브",
+  "regionId": "11305",
+  "spotIds": [
+   "r11305-03",
+   "r11305-01",
+   "r11305-06",
+   "r11305-04",
+   "r11305-02"
+  ],
+  "by": "노을수집가",
+  "date": "2026-06-08",
+  "distanceKm": 106.7,
+  "cars": 4,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12780-g4",
+  "title": "부모님 모시고 강진",
+  "regionId": "12780",
+  "spotIds": [
+   "r12780-05",
+   "r12780-03",
+   "r12780-02",
+   "r12780-06",
+   "r12780-04"
+  ],
+  "by": "섬돌이",
+  "date": "2026-08-12",
+  "distanceKm": 54.9,
+  "cars": 4,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12820-g0",
+  "title": "부모님 모시고 함평",
+  "regionId": "12820",
+  "spotIds": [
+   "r12820-03",
+   "r12820-04",
+   "r12820-02",
+   "r12820-06",
+   "r12820-01",
+   "r12820-05"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-07-02",
+  "distanceKm": 58.9,
+  "cars": 4,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41830-g1",
+  "title": "부모님 모시고 양평",
+  "regionId": "41830",
+  "spotIds": [
+   "r41830-03",
+   "r41830-05",
+   "r41830-06",
+   "r41830-01",
+   "r41830-02"
+  ],
+  "by": "노을수집가",
+  "date": "2026-08-05",
+  "distanceKm": 56.5,
+  "cars": 4,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-44825-g3",
+  "title": "태안 노을까지",
+  "regionId": "44825",
+  "spotIds": [
+   "ta-02",
+   "ta-03",
+   "ta-04",
+   "ta-05",
+   "ta-01"
+  ],
+  "by": "포터로캠핑",
+  "date": "2026-10-09",
+  "distanceKm": 85.8,
+  "cars": 4,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47130-g3",
+  "title": "부모님 모시고 경주 4",
+  "regionId": "47130",
+  "spotIds": [
+   "gj-04",
+   "gj-03",
+   "gj-05",
+   "gj-01",
+   "gj-02"
+  ],
+  "by": "신혼여행중",
+  "date": "2026-10-05",
+  "distanceKm": 46.0,
+  "cars": 4,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47730-g2",
+  "title": "비 오는 날 의성 3",
+  "regionId": "47730",
+  "spotIds": [
+   "r47730-02",
+   "r47730-01",
+   "r47730-03",
+   "r47730-04",
+   "r47730-05"
+  ],
+  "by": "은퇴여행자",
+  "date": "2026-05-02",
+  "distanceKm": 97.4,
+  "cars": 4,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-47820-g0",
+  "title": "청도 대표만 콕",
+  "regionId": "47820",
+  "spotIds": [
+   "r47820-03",
+   "r47820-06",
+   "r47820-04",
+   "r47820-01",
+   "r47820-02"
+  ],
+  "by": "신혼여행중",
+  "date": "2026-07-27",
+  "distanceKm": 60.4,
+  "cars": 4,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-51750-g0",
+  "title": "영월 대표만 콕",
+  "regionId": "51750",
+  "spotIds": [
+   "r51750-02",
+   "r51750-01",
+   "r51750-03"
+  ],
+  "by": "캠핑의자둘",
+  "date": "2026-08-10",
+  "distanceKm": 34.1,
+  "cars": 4,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-11740-g1",
+  "title": "강동구 노을까지",
+  "regionId": "11740",
+  "spotIds": [
+   "r11740-03",
+   "r11740-02",
+   "r11740-05",
+   "r11740-01"
+  ],
+  "by": "EV초보",
+  "date": "2026-10-28",
+  "distanceKm": 21.1,
+  "cars": 3,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12150-g0",
+  "title": "순천 하루 코스",
+  "regionId": "12150",
+  "spotIds": [
+   "r12150-03",
+   "r12150-06",
+   "r12150-02",
+   "r12150-01",
+   "r12150-04",
+   "r12150-05"
+  ],
+  "by": "GV60타는남자",
+  "date": "2026-08-21",
+  "distanceKm": 74.5,
+  "cars": 3,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-12800-g1",
+  "title": "영암 사진 찍기 좋은 순서",
+  "regionId": "12800",
+  "spotIds": [
+   "r12800-02",
+   "r12800-05",
+   "r12800-01",
+   "r12800-03"
+  ],
+  "by": "주말드라이버",
+  "date": "2026-06-23",
+  "distanceKm": 67.7,
+  "cars": 3,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-27170-g4",
+  "title": "서구 주말 한 바퀴",
+  "regionId": "27170",
+  "spotIds": [
+   "r27170-04",
+   "r27170-06",
+   "r27170-05"
+  ],
+  "by": "EV3첫차",
+  "date": "2026-07-04",
+  "distanceKm": 33.9,
+  "cars": 3,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41370-g2",
+  "title": "오산 대표만 콕",
+  "regionId": "41370",
+  "spotIds": [
+   "r41370-02",
+   "r41370-03",
+   "r41370-05",
+   "r41370-04",
+   "r41370-01"
+  ],
+  "by": "혼자드라이브",
+  "date": "2026-04-28",
+  "distanceKm": 29.9,
+  "cars": 3,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48220-g0",
+  "title": "통영 대표만 콕",
+  "regionId": "48220",
+  "spotIds": [
+   "ty-01",
+   "ty-03",
+   "ty-02",
+   "ty-04"
+  ],
+  "by": "노을수집가",
+  "date": "2026-03-03",
+  "distanceKm": 42.0,
+  "cars": 3,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41550-g0",
+  "title": "안성 하루 코스",
+  "regionId": "41550",
+  "spotIds": [
+   "r41550-01",
+   "r41550-02",
+   "r41550-03"
+  ],
+  "by": "캐스퍼일렉",
+  "date": "2026-06-11",
+  "distanceKm": 22.8,
+  "cars": 2,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-41820-g1",
+  "title": "가평 점심 전에 끝",
+  "regionId": "41820",
+  "spotIds": [
+   "gp-01",
+   "gp-04",
+   "gp-02",
+   "gp-05",
+   "gp-03"
+  ],
+  "by": "로컬맛집헌터",
+  "date": "2026-04-18",
+  "distanceKm": 60.7,
+  "cars": 2,
+  "verified": true,
+  "sample": true
+ },
+ {
+  "id": "c-48120-g1",
+  "title": "창원 사진 찍기 좋은 순서",
+  "regionId": "48120",
+  "spotIds": [
+   "r48120-02",
+   "r48120-01",
+   "r48120-05",
+   "r48120-03",
+   "r48120-04",
+   "r48120-06"
+  ],
+  "by": "바다만골라",
+  "date": "2026-04-27",
+  "distanceKm": 59.0,
+  "cars": 2,
+  "verified": true,
+  "sample": true
+ }
+]

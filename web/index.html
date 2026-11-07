@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>온길 · 내 지도</title>
+<meta name="description" content="차 화면 QR로 받은 온길 기록을 폰에서 이미지로. 서버 없음: 데이터는 주소 뒤 #에만 있어요.">
+<style>
+  :root { --bg:#F3F9F8; --card:#E4F0EE; --line:#C9DBD8; --ink:#10201E; --muted:#5C6A68; --paint:#0E9A8A; --soft:#B9E3DD; --stamp:#E8553A; }
+  * { box-sizing:border-box }
+  body { margin:0; background:var(--bg); color:var(--ink); font-family:-apple-system, "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif; }
+  main { max-width:520px; margin:0 auto; padding:16px; }
+  h1 { font-size:22px; margin:8px 0 2px; } .sub { color:var(--muted); font-size:14px; margin:0 0 14px; }
+  canvas { width:100%; height:auto; background:var(--card); border-radius:16px; display:block; }
+  .row { display:flex; gap:10px; margin-top:12px; }
+  button { flex:1; height:52px; border:0; border-radius:14px; font-size:16px; font-weight:700; cursor:pointer; }
+  .primary { background:var(--paint); color:#fff; } .basic { background:var(--line); color:var(--ink); }
+  .note { color:var(--muted); font-size:13px; line-height:1.5; margin-top:14px; }
+  ul { padding-left:18px; color:var(--muted); font-size:15px; line-height:1.6; }
+  .empty { padding:40px 0; color:var(--muted); text-align:center; line-height:1.6; }
+</style>
+</head>
+<body>
+<main>
+  <h1 id="title">온길</h1>
+  <p class="sub" id="sub">차에서 QR을 찍어 오세요</p>
+  <canvas id="c" width="1080" height="1350" hidden></canvas>
+  <div id="empty" class="empty">차 화면의 "내 지도" 또는 "여행 기록" QR을 찍으면<br>여기서 이미지로 만들어 저장할 수 있어요.</div>
+  <ul id="list" hidden></ul>
+  <div class="row" id="actions" hidden>
+    <button class="primary" id="save">이미지 저장</button>
+    <button class="basic" id="share">공유</button>
+  </div>
+  <p class="note">기록은 주소 뒤 <code>#</code> 안에 들어 있어요. 이 페이지는 그것을 그림으로 그려 줄 뿐, 어디에도 보내지 않아요.</p>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
