@@ -71,7 +71,7 @@ fun CardPage(store: AppStore, cardId: String?) {
         CardOverlay(card, region?.name, earnedTitles.ifBlank { setTitle }, regionSets.firstOrNull()?.title, completionTab)
     }) {
         Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
-            Chip("그날 기록", !completionTab, Modifier.weight(1f)) { completionTab = false }
+            Chip("이번 온길", !completionTab, Modifier.weight(1f)) { completionTab = false }
             if (setTitle != null) Chip("스탬프 카드", completionTab, Modifier.weight(1f), sub = if (card.regionCompleted) null else "다 가면 열려요") { if (card.regionCompleted) completionTab = true }
         }
         Spacer(Modifier.height(22.dp))

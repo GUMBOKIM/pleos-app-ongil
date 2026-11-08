@@ -2,7 +2,7 @@
 
 **가고 싶은 명소를 고르면 차가 데려다주고, 도착하면 그곳 이야기를 들려주고, 다녀온 곳을 여행 지도와 지자체 스탬프로 남겨 주는 차량용 앱.** 현대자동차그룹 차량용 앱 개발 공모전(Pleos App Market) 출품작, Pleos Connect(Android Automotive) 앱.
 
-**시연 영상 (54초)**: [docs/demo/ongil-demo.mp4](docs/demo/ongil-demo.mp4) — Pleos Connect 에뮬레이터 화면 녹화(소리 없음, 장면마다 자막). 지역 고르기 → 볼 곳 체크 → 코스 → 내비게이션 경유지 → 1km 전 알림 → 정차·방문 기록 → 도착 이야기·스탬프 → 내 지도.
+**시연 영상 (59초)**: [docs/demo/ongil-demo.mp4](docs/demo/ongil-demo.mp4) — Pleos Connect 에뮬레이터 화면 녹화(소리 없음, 장면마다 자막). 지역 고르기 → 볼 곳 체크 → 코스 → 내비게이션 경유지 → 1km 전 알림 → 정차·방문 기록 → 도착 이야기·스탬프 → 내 지도 → 스탬프 목록.
 
 ## 사용 흐름
 

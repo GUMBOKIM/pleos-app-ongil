@@ -226,7 +226,7 @@ fun BigButton(text: String, modifier: Modifier = Modifier, enabled: Boolean = tr
 /** 고르는 칩(탭): 선택되면 칠 색 테두리 + 글자 */
 @Composable
 fun Chip(text: String, selected: Boolean, modifier: Modifier = Modifier, sub: String? = null, onClick: () -> Unit) {
-    val height = if (sub == null) 88 else 100
+    val height = 100   // 보조 글이 있든 없든 같은 높이(한 줄에 나란히 놓이므로)
     val src = remember { MutableInteractionSource() }
     val pressed by src.collectIsPressedAsState()
     val sc by animateFloatAsState(if (pressed) 0.97f else 1f, tween(120), label = "p")
