@@ -107,7 +107,7 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 | 빌드 | JDK 17, Android Gradle Plugin 8.8.2, compileSdk 35, minSdk 28 |
 | Pleos SDK | NaviHelper 3.0.5, FusedLocation 1.1.3, Vehicle Control, TextToSpeech (Pleos Playground Maven `nexus-playground.pleos.ai`) |
 | 권한 | NAVI_ROUTE, NAVI_ROUTE_SEARCH, FUSED_LOCATION·POST_NOTIFICATIONS(런타임), CAR_INFO, CAR_DRIVE, TTS_SERVICE |
-| 네트워크 | 필요 없음. 명소·지도 데이터는 앱 안에 있고 서버가 없다 |
+| 네트워크 | 필요 없음. 명소·지도 데이터는 앱 안에 있고 서버가 없다 (INTERNET 권한은 선언돼 있지만 1차 접수본은 쓰지 않는다) |
 | 위치 | 에뮬레이터 내비는 재생 좌표를 받지 않는다. 온길은 FusedLocation 좌표로 판정하므로 `adb emu geo fix`(스크립트)를 쓴다 |
 | 시뮬레이션 표시 | 에뮬레이터에서 만든 기록은 모두 `isSimulation = true`로 저장된다 |
 
