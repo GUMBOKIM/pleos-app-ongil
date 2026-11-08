@@ -1,12 +1,52 @@
 # 온길 (OnGil)
 
-**내비에 꽂고, 서면 칠해지는 여행 지도.** 현대자동차그룹 차량용 앱 개발 공모전(Pleos App Market) 출품작, Pleos Connect(AAOS) 앱.
+**가고 싶은 명소를 고르면 차가 데려다주고, 도착하면 그곳 이야기를 들려주고, 다녀온 곳을 여행 지도와 지자체 스탬프로 남겨 주는 차량용 앱.** 현대자동차그룹 차량용 앱 개발 공모전(Pleos App Market) 출품작, Pleos Connect(Android Automotive) 앱.
 
-그 지역에서 볼 곳을 체크하면 차가 내비에 경유지로 꽂고, 도착 즈음 내비 위에 알려 준다. 그곳에 기어 P로 3분 서면 방문이 기록되고 그 시군구가 지도에 칠해진다. 지자체가 건 세트("충주 10경")를 다 돌면 스탬프가 남는다.
+## 사용 흐름
 
-| 지도 홈 | 볼 곳 고르기 | 코스 | 내비 위 알림 | 도착 · 방문 기록 | 스탬프 |
-|---|---|---|---|---|---|
-| ![](docs/screenshots/m0-home.png) | ![](docs/screenshots/m1-input.png) | ![](docs/screenshots/m2-recommend.png) | ![](docs/screenshots/m3-headsup.png) | ![](docs/screenshots/m4-arrival.png) | ![](docs/screenshots/m0c-stamps.png) |
+화면마다 어떤 기능이 있는지는 **[기능 설명서 (docs/FEATURES.md)](docs/FEATURES.md)**에 자세히 정리했다.
+
+서울에서 충주로 여행을 가는 경우다. 화면은 모두 Pleos Connect 에뮬레이터 v2.1.0에서 찍었다(위치는 좌표 재생).
+
+| ① 지도 홈 | ② 지역 고르기 |
+|---|---|
+| ![](docs/screenshots/m0-home.png) | ![](docs/screenshots/m0f2-region-filter.png) |
+| 다녀온 지역이 칠해져 있다. 많이 다닌 곳일수록 진하다 | 충주를 고르면 볼 곳 목록과 지자체 스탬프("충주 10경")가 보인다 |
+
+| ③ 볼 곳 고르기 | ④ 코스 |
+|---|---|
+| ![](docs/screenshots/m1-input.png) | ![](docs/screenshots/m2-recommend.png) |
+| 갈 곳을 체크하면 지도에 번호가 붙는다 | 가까운 순으로 순서를 잡고 전체 걸리는 시간을 보여 준다. "이 코스로 출발" |
+
+| ⑤ 내비 안내 | ⑥ 1km 전 알림 |
+|---|---|
+| ![](docs/screenshots/s3-navi-route.png) | ![](docs/screenshots/m3-headsup.png) |
+| 고른 곳이 Pleos 내비 경유지로 들어간다 | 내비 위에 "곧 비내섬 · 주차 후 600m 걸어요" 카드와 음성 |
+
+| ⑦ 운전 중 | ⑧ 도착해서 기어 P |
+|---|---|
+| ![](docs/screenshots/m3z-driving-mode.png) | ![](docs/screenshots/m3b-arrived-hun.png) |
+| 차가 운전 중 신호를 보내면 "다음은 ○○"와 버튼 하나만 | "3분 서 있으면 방문으로 기록돼요". 그곳 이야기가 차 스피커로 나온다 |
+
+| ⑨ 방문 기록 | ⑩ 하루가 끝나면 |
+|---|---|
+| ![](docs/screenshots/m4-arrival.png) | ![](docs/screenshots/m0g-home-after.png) |
+| 3분 뒤 방문이 기록되고 "충주 10경 1/10" | 충주가 칠해지고, 못 간 곳은 "남은 N곳 이어가기"로 남는다 |
+
+| ⑪ 이어서 가기 | ⑫ 여행 기록 |
+|---|---|
+| ![](docs/screenshots/m2e-remaining.png) | ![](docs/screenshots/m5-card.png) |
+| 다음 날 남은 곳을 가까운 순으로 다시 출발 | 지난 여행의 방문 시각, "이 코스 올리기" |
+
+| ⑬ 내 지도 | ⑭ 스탬프 |
+|---|---|
+| ![](docs/screenshots/m0b-mymap.png) | ![](docs/screenshots/m0c-stamps.png) |
+| 지역·스탬프·방문 수와 지난 여행 목록 | 지자체가 묶은 명소를 다 돌면 받는다. 진행 중이면 방문한 만큼 색이 차오른다 |
+
+| ⑮ 공개 코스 | ⑯ 내비 옆에 좁게 띄웠을 때 |
+|---|---|
+| ![](docs/screenshots/m0d-courses.png) | ![](docs/screenshots/n1-home-narrow.png) |
+| 다른 사람·지자체 코스를 지역별로 찾아 그대로 골라 출발 (샘플 데이터) | 창이 좁으면 지도를 접고 목록만 |
 
 ## APK
 
